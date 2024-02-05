@@ -1,0 +1,2817 @@
+hon
+lab
+la
+phon
+
+Laboratory Phonology
+Journal of the Association for
+Laboratory Phonology
+
+Seeliger, H., & Repp, S. (2023). Information-structural surprises?
+Contrast, givenness, and (the lack of ) accent shift and
+deaccentuation in non-assertive speech acts. Laboratory
+Phonology: Journal of the Association for Laboratory Phonology,
+14(1), pp. 1-46. DOI: https://doi.org/10.16995/labphon.6451
+
+Information-structural surprises? Contrast,
+givenness, and (the lack of ) accent shift and
+deaccentuation in non-assertive speech acts
+Heiko Seeliger*, Department of German Language and Literature I, University of Cologne, Germany, heiko.seeliger@
+uni-koeln.de
+Sophie Repp, Department of German Language and Literature I, University of Cologne, Germany, sophie.repp@unikoeln.de
+*Corresponding author.
+
+It is well-established for assertions that the information-structural status of referents influences
+prosodic prominence: givenness reduces and contrastive focus increases prominence, relative
+to newness. We present production data in German on the prosodic marking of givenness and
+contrast in comparison to newness in two non-assertive speech acts: polar exclamatives and
+polar questions. The results show that contrastive focus is consistently marked in both speech
+acts: through an increase of prosodic prominence on the contrastive element itself, and through
+a decrease of prominence of a word in the prenuclear region that in sentences without contrast
+typically is prominent. Givenness is not clearly marked prosodically in either speech act. We
+argue that givenness is necessary, but not sufficient for deaccentuation. First, if deaccentuation
+requires an accent shift (so that the intonation phrase is headed), the semantic-pragmatic effects
+of the shifted accent must fit the discourse context. We argue that there are subtle discourse
+conditions on accent shift in the questions involving verum focus, preventing a shift. Second,
+deaccentuation is disfavored if speech act marking requires accentuation, as in exclamatives.
+Overall, the different functions of prosody show subtle interactions, hinting at a subordinate
+functional load of givenness marking but not of contrast marking.
+
+Laboratory Phonology: Journal of the Association for Laboratory Phonology is a peer-reviewed open access journal published by
+the Open Library of Humanities. (c) 2023 The Author(s). This is an open-access article distributed under the terms of the Creative
+Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction
+in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+
+OPEN ACCESS
+
+2
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+1. Introduction
+The prosody of an utterance can serve many functions. One function is to signal which speech act
+
+the utterance is intended to carry out. For example, an English declarative sentence like He likes
+
+cats can express an assertion or a question, depending on its nuclear accent, boundary tone and
+other prosodic characteristics. With the assertion He likes cats., the speaker takes responsibility
+
+for the truth of the proposition he likes cats; with the question He likes cats?, the speaker asks the
+addressee to indicate which of the propositions {he likes cats, he does not like cats} is true. Another
+function of prosody is to indicate the information-structural status of referents or expressions
+that are mentioned in the utterance, such as whether they represent given or new information.
+
+For example, in the sequence Paul got a cat. He likes cats., the object of the second sentence, cats,
+
+typically is deaccented because it is lexically given, and the nuclear accent, which in an all-new
+sentence would be on cats, shifts to likes.
+
+The prosodic marking of speech acts has mainly attracted theoretical and empirical
+
+attention for the most `canonical' speech acts: Assertions and questions. Other speech acts have
+
+been investigated much less frequently and their characteristics are less well understood. For
+instance, for German - the language under investigation in this paper - there is much work on
+
+the comparison between assertions and questions, and on questions of different types (e.g., von
+
+Essen, 1966; Isaenko & Schadlich, 1966; Batliner, 1989; Selting, 1995; Kugler, 2003; Schneider
+
+& Lintfert, 2003; Kohler, 2004; Grice, Baumann & Benzmuller 2005; Niebuhr, Bergherr, Huth,
+Lill, & Neuschulz, 2010; Petrone & Niebuhr, 2014; Repp & Rosin, 2015; Repp, 2015, 2020;
+
+Wochner, Schlegel, Dehe, & Braun, 2015; Michalsky, 2017; Neitsch & Niebuhr, 2019; Braun,
+Dehe, Neitsch, Wochner, & Zahner, 2019; Repp & Seeliger, 2020). Less common speech acts,
+such as exclamations, orders, or rejections have received less or no attention. Previous work on
+
+German exclamations includes Batliner (1988a, 1988b), Oppenrieder (1988), Repp (2015, 2020),
+Repp & Seeliger (2020), and Seeliger & Repp (2020). Although an early focus of investigation
+in particular for questions lay on the boundary tones at the end of utterances, it is by now clear
+
+that question marking can have prosodic effects across the entire utterance. Similarly, we know
+now that exclamations are not just marked by the so-called exclamative accent. Thus, speech act
+marking is a `global affair', concerning the entire utterance with - as we will discuss below -
+local specifics.
+
+Similarly, the prosodic marking of information structure (IS), which concerns both the
+
+expression whose IS status is marked and other parts of the clause, has been investigated mostly
+
+for assertions. This holds for all IS categories (givenness, new information focus, topicality,
+contrastive focus, contrastive topics). There is limited work on prosodic marking of certain IS
+categories in questions in several European languages (Repp, 2020 on German; Chen, 2012 on
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Dutch; Grice & Savino, 2003; Ventura, Grice, Savino, Kolev, Brilmayer, & Schumacher, 2020
+
+on Italian; Seeliger & Repp, 2017 on Swedish) and in exclamations in German (Batliner, 1988a;
+Repp, 2015, 2020; Repp & Seeliger, 2020; Seeliger & Repp, 2020). It appears that IS might
+
+be marked differently in questions and exclamations than in assertions. There may be several
+reasons for this.
+
+First, the `default' prosodic characteristics of non-assertive speech acts, such as the distribution
+
+of accents or accent types, or the boundary tones, are different from those of assertions. This might
+have consequences for the prosodic marking of IS. For example, nuclear L* accents are more
+
+common in (polar) questions than in assertions and they often precede a high boundary tone. If an
+element that would normally carry a L* accent in a question is focused, which typically is marked
+with higher prosodic prominence, the marking might not involve higher pitch as in assertions but
+
+lower pitch. The reason is that focus marking by high pitch in assertions may be conceptualized
+
+as a prominent deviation from the pitch baseline (e.g., Kugler & Genzel, 2012; Repp, 2020), and
+this baseline is low (falling) in assertions but high (rising) in questions. Relatedly, exclamations
+
+have been suggested to come with a prosodic constructional default, which involves certain
+requirements on accentuation (Repp & Seeliger, 2020). These requirements might conflict with
+requirements of IS marking, such as deaccentuation.
+
+Second, differences in prosodic IS marking in non-assertive speech acts and assertions
+
+might arise from the semantics/pragmatics of the speech acts. For example, the content of an
+
+exclamation often is assumed to be presupposed (e.g., Michaelis & Lambrecht, 1996; d'Avis,
+
+2002; Zanuttini & Portner, 2003; Abels, 2010). Presupposed content may be considered to be
+given to some degree, so that further marking of information as either new or given might be
+influenced by this characteristic (Repp & Seeliger, 2020).
+
+The present paper investigates the prosodic marking of IS in two non-assertive speech acts.
+
+We present the results of a production study investigating polar exclamatives and polar questions
+
+in German. The sentences used to express these speech acts are string-identical in the absence of
+speech-act-specific modal particles, e.g.:1
+(1)
+
+1
+
+Hat der
+kleine Lamas gefunden !/?
+has hedpron small llamas found
+Exclamative: `(Boy,) did he find small llamas!'
+Question:
+`Did he find small llamas?'
+
+In written language, punctuation disambiguates the speech acts.
+
+3
+
+4
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Sentences like (1) may be disambiguated by the context and by prosody. Thus, embedding such
+
+sentences in disambiguating contexts allows us to investigate the impact of both the particular
+speech act and the IS on their prosodic characteristics. The IS categories that we investigate in
+this study are contrastive focus and givenness in comparison to new information focus.
+
+The paper is structured as follows: Sections 2 and 3 discuss previous findings on the
+
+prosody of questions and exclamations including the marking of IS. Section 4 presents our
+
+research questions and hypotheses, and describes the experimental setup. Section 5 presents
+the results. Section 6 discusses the findings and relates them to the research questions.
+Section 7 concludes.
+
+2. Prosodic marking of speech acts: Exclamations and questions
+Polar questions request a yes- or no-answer from the addressee: They are used to find out whether
+
+a proposition is true or not. German polar questions come in different syntactic forms. They may
+
+have an interrogative syntax, which means that the verb is in clause-initial position (=verbfirst), or they may have a declarative syntax, with the verb in the second position. However,
+
+as in other Germanic languages, German declarative questions have specific usage conditions
+concerning the context and previous assumptions of the speaker (cp. Gunlogson, 2003, 2008 on
+
+English; Seeliger & Repp, 2018, Seeliger, 2019 on German). In this paper, we are only interested
+in the more regular, verb-first questions and reserve the term polar question for these.
+
+Exclamations highlight the speaker's surprise or astonishment at a state of affairs. They
+
+map to a great variety of syntactic sentence types. German inter alia has verb-first exclamatives
+
+(which are string-identical to polar questions) and wh-exclamatives (which come in both verbsecond and verb-final variants) (d'Avis, 2013, 2016 for an overview). When using a verb-first
+
+exclamative, which is the structure under investigation here, the speaker expresses their surprise
+
+at the degree to which a certain property holds, for instance in (1) the size of the llamas that `he'
+found. Other types of exclamations can also express that the speaker is surprised that a certain
+
+state of affairs holds at all. We are using the term polar exclamative to refer to verb-first, non-whexclamatives in order to underline the syntactic string identity of polar exclamatives and polar
+questions, without making semantic claims.
+
+Turning to prosody, German polar questions typically contain a low (L*) or a rising (L+H*)
+
+nuclear pitch accent rather than a high or falling accent as assertions do (e.g., Kugler, 2003;
+Grice et al., 2005; Repp & Seeliger, 2020). The position of the accent has not been reported to
+
+be different from the position of the nuclear accent in assertions. So, in all-new sentences with
+transitive structures like (1), the accent occurs on the head noun of the most deeply embedded
+argument, Lamas `llamas'.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+The nuclear accent in polar questions is often followed by a high boundary tone resulting in
+
+a rising final contour, but if the accent is rising it may also be followed by a low boundary tone
+so that the question displays a falling utterance-final pitch movement (Kugler, 2003). The choice
+
+of final pitch movement may be influenced by several factors. For instance, rising questions
+(of various types) tend to signal that the speaker leaves the expected answer open, which can
+convey friendliness. Falling questions signal an expectation of routine answers, which can come
+
+across as fact-oriented or even curt (e.g., Kugler, 2003; Kohler, 2004; Petrone & Niebuhr, 2014;
+Michalsky, 2015). On this view, high boundary tones are not inherently related to the speech
+
+act of questioning, or interrogativity, which allows a unified analysis for instance of final rises
+in questions and continuation rises in assertions, both signaling openness or incompleteness
+
+(Michalsky, 2017). According to Michalsky (2015), the strongest cue for interrogativity is the
+absolute value of the final rise offset (i.e., the height of the (H%) boundary tone). Another factor
+
+for the choice between high vs. low boundary tone is speech mode, with final rises occurring
+more often in read, than in spontaneous speech (Michalsky, 2017).
+
+Prosodic markers of questionhood other than the final contour may occur quite early in the
+
+utterance. Petrone and Niebuhr (2014) argue that the shape of pre-nuclear accents can influence
+the perception of an utterance as a question or an assertion, with shallower falls after the peak
+
+leading to a more frequent identification of an utterance as a question. Similarly, Michalsky (2015)
+reports that higher pre-nuclear peaks lead to a slightly stronger perception of interrogativity.
+
+On the utterance level, questions seem to be characterized by a faster speaking rate than
+
+assertions, both in German (Niebuhr et al., 2010) and in other languages (e.g., van Heuven &
+
+van Zanten, 2005 for Manado Malay, Orkney English, and Dutch). An open issue is whether
+
+differences in speaking rate represent truly global (i.e., utterance-level differences), or whether
+they are the result of local differences. Niebuhr et al. (2010) found that German questions were
+
+not only faster than assertions but also contained fewer accented syllables than assertions. These
+
+two aspects can be related: Accented syllables tend to be longer than unaccented syllables, so
+fewer accented syllables will result in shorter utterance durations, which correspond to a higher
+speaking rate.
+
+German exclamations have been claimed to be marked by a so-called exclamative accent,
+
+independently of their particular syntactic structure. This accent is the intuitively most
+prominent accent in an exclamation. It has been characterized as having a higher and later
+
+pitch peak when compared to the nuclear accent in assertions (Oppenrieder, 1988; Batliner,
+1988a, 1988b), suggesting that the accent might be more similar to an L+H* accent than an H*
+accent. However, Repp and Seeliger (2020) report for polar exclamatives that H* accents were
+more frequent than L+H* accents. Furthermore, they found that utterance length influences the
+
+5
+
+6
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+choice of accent: L+H* accents occurred more often in short than in long exclamatives. Short
+exclamatives also displayed a slower speaking rate than longer exclamatives. Repp and Seeliger
+
+suggest that the slower speaking rate in conjunction with the L+H* may be the result of a more
+
+`exalted' speaking style, which is used to highlight a high degree of `exclamativity'. Regarding
+the prominence of L+H* vs. H*, it has been suggested for assertions that L+H* accents are
+perceived as more prominent than H* accents (Baumann & Rohr, 2015; Baumann & Winter,
+
+2018). So, polar exclamatives do not seem to come by default with more prominent accents
+than with less prominent accents. This assumption is corroborated by the observation that the
+arguably very prominent L*+H accent hardly ever occurred in the polar exclamatives elicited
+by Repp and Seeliger (2020).
+
+There are certain word classes and structural positions that attract the exclamative accent.
+
+The most common attractors are (a) subject d-pronouns, such as der `he' in (1) (Repp, 2020; Repp
+
+& Seeliger, 2020; Seeliger & Repp, 2020), (b) scalar expressions such as the gradable adjective
+kleine `small' in (1) (Altmann, 1993; d'Avis, 2002; Oppenrieder, 1988; Rosengren, 1992, 1997),
+
+and (c) the syntactic C position when filled with a finite verb (i.e., the finite verb in clauseinitial or clause-second position) (Altmann, 1993; Repp, 2020; Repp & Seeliger, 2020). The
+presence of several attractors for a prominent accent might explain the observation by Repp and
+
+Seeliger (2020) that speakers overall realized a higher number of accents in exclamatives than
+in questions.
+
+Turning to boundary tones, there is agreement that exclamations come with a low boundary
+
+tone independently of the syntactic structure (Altmann, 1993; Repp, 2015, 2020; Repp & Seeliger,
+2020; Seeliger & Repp, 2020).
+
+In terms of continuous utterance-level characteristics, exclamations come with a slower
+
+speaking rate than other speech acts. Altmann (1993) observes this for exclamations with
+
+a declarative structure in comparison to assertions, Repp (2020) for wh-exclamatives
+in comparison to string-identical wh-questions, and Repp and Seeliger (2020) for polar
+exclamatives in comparison to polar questions. The difference with the questions might
+
+partly be due to the faster speaking rate of questions (in comparison to assertions,
+
+see above). To our knowledge, there are no direct comparisons between all three
+speech acts.
+
+The bundle of prosodic features that characterize exclamatives (i.e., the realization of
+
+an exclamative accent, a slower speaking rate, and a falling contour) have been proposed to
+constitute a constructional prosodic default by Repp and Seeliger (2020). This default furthermore
+comprises a reduced sensitivity to information-structural requirements.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+3. Prosodic marking of givenness and contrast in questions and
+exclamations
+We define an element as lexically and referentially given if the same word denoting the same
+
+(set of) individual(s) is used in the context preceding the relevant utterance, following Baumann
+and Riester (2013). An element is new if neither the word nor the denoted individual(s) are
+mentioned in the context and if there are no explicit alternatives. An element is contrastive (i.e.,
+a contrastive focus), if there is an explicit alternative to the individual(s) denoted by the word
+
+in the context. Note that this definition of contrast does not require that the speech act be a
+correction, which is a speech act that is often used in studies on contrast.
+
+In Section 1, we highlighted that the prosodic marking of given, new and contrastively
+
+focused information has mostly been investigated for assertions. We briefly summarize these
+findings here before we turn to the few available results for questions and exclamations.
+
+In assertions, given information is marked by deaccentuation, by accents with a low pitch
+
+target, and/or phonetic characteristics that are associated with low prominence, for instance
+shorter duration or lower intensity (Baumann, 2006; Baumann & Riester, 2013; Baumann et al.,
+
+2015; Baumann & Rohr, 2015). Low (pitch) prominence can be conceptualized as only a small,
+or even missing deviance from the pitch baseline (cp. Kugler & Genzel, 2012; Repp, 2020). New
+
+information is marked by larger deviations from the baseline: In assertions, new information has
+higher pitch maxima and a greater pitch expansion than given information, which corresponds
+to a higher rate of accentuation and a higher rate of accents with a high target (Kohler, 1991;
+
+Baumann, 2006; Baumann & Grice, 2006; Rohr & Baumann, 2010; Baumann & Riester, 2013,
+Baumann et al., 2015). Accents with a high pitch target are perceived as more prominent than
+
+accents with a low target (Baumann & Rohr, 2015). Thus, the deviation from the baseline is
+
+`upwards', if an utterance has an overall falling pitch baseline as assertions do. Contrastively
+focused words are often marked by bitonal accents, which are perceived as most prominent
+
+(e.g., L+H* in German). These accents show the largest deviation from the pitch baseline. They
+
+also are characterized by phonetically prominent non-pitch-related characteristics such as a
+
+longer duration and a greater intensity (all measurements are for nuclear accents) (Baumann,
+Becker, Grice, & Mucke, 2007; Breen, Fedorenko, Wagner, & Gibson, 2010; Braun, 2006; Braun
+& Tagliapetra, 2010; Grice, Ritter, Niemann, & Roettger, 2017).
+
+The above findings suggest that the prosodic characteristics associated with the three IS
+
+concepts lie on a continuum: Given information carries the fewest and acoustically least prominent
+
+accents, contrastively focused information carries the most and acoustically most prominent
+accents, while new information sits in between. However, from a semantic and pragmatic
+
+7
+
+8
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+perspective, these concepts do not all lie on a continuum. Givenness vs. newness is indeed a
+
+graded (i.e., scalar concept with information states like accessible and inferrable being scalemedial), and directly given in the immediate context and brand new being the endpoints of the scale
+
+(e.g., Chafe, 1976, 1994; Clark, 1977; Prince, 1981; Lambrecht, 1994; Baumann, 2006). Contrast
+lies on a different dimension. It is compatible with givenness and with newness: Something that
+is contrasted can have been mentioned or implied before, or not (Molnar, 2002; Repp, 2016).
+
+As mentioned in Section 1, there are reasons to believe that there are differences between IS
+
+marking in assertive vs. non-assertive speech acts. Starting with questions, recall that for rising
+questions, a prominence-lending deviance from the rising baseline is expected to be lower,
+
+rather than higher pitch. Indeed, Repp (2020) reports for German verb-final wh-questions
+
+embedded in matrix polar questions, which were often produced with a rising contour, that
+the utterance-final stretch of speech following a given direct object was marked by higher
+
+pitch than the stretch of speech following a new object. This suggests that new information
+was marked by lower pitch in these structures. In comparison, in non-embedded verb-second
+wh-questions, which were mostly realized with a falling contour, accents on new objects had
+
+a higher maximum pitch and a larger pitch excursion than accents on new objects. Regarding
+accentuation, given information but not new information was frequently deaccented in the
+non-embedded verb-second structures. In the embedded structures, there were no differences,
+
+probably because of the complexity of the structures leading to default accentuation. Finally,
+there was a reduction of the utterance-level maximum pitch and pitch range in non-embedded
+structures when the object was given.
+
+For exclamations, it has been claimed that IS is not marked in German at all (Batliner, 1988a,
+
+1988b; Jacobs, 1988). However, it has also been suggested that the exclamative accent CAN be
+
+used to mark (contrastive) focus (Altmann, 1993; d'Avis, 2016). There is empirical evidence
+
+that givenness might indeed not be prosodically marked in exclamatives. Repp (2020) found
+that wh-exclamatives showed no reduction in the rate of accentuation in given vs. new objects.
+
+There were only rather subtle phonetic effects of givenness in verb-second wh-exclamatives: A
+reduced utterance-global maximum pitch and pitch range. Repp and Seeliger (2020) observe
+
+for polar exclamatives a complete lack of givenness and newness marking, albeit in a study
+where IS marking was not the focus of investigation. Taken together, these empirical findings
+lend some support to the claim that exclamations are IS-inert, at least as far as the given-
+
+new dimension is concerned. Repp and Seeliger (2020) suggest that this inertness is part of
+the prosodic constructional default mentioned above. Givenness marking (i.e., low prosodic
+
+prominence) is incompatible with the marking of an utterance as exclamative, which comes with
+
+high prominences. For elements that are the default carrier of the nuclear accent, such as the
+object in transitive sentences (cp. Repp's 2020 findings for wh-exclamatives), it certainly seems
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+that they must carry an accent independently of the (additional) presence of the exclamative
+accent. However, these suggestions require more empirical support from diverse exclamative
+structures. Regarding contrastive focus, there are no empirical investigations for questions or
+exclamatives.
+
+4. The current study
+4.1. Hypotheses
+
+Given the state of the art on the prosodic marking of IS in questions and exclamations in general,
+
+and polar questions and polar exclamatives in particular, the current production study addresses
+
+the issue of how given information and contrastive information are marked prosodically in
+comparison to new information in these two non-assertive speech acts. We explore two hypotheses:
+
+* H1. Givenness (vs. Newness): Questions and exclamatives differ in their propensity
+for givenness marking. In questions, like in assertions, givenness is marked by reduced
+
+prominence, which, however, is realized as higher pitch for questions with a rising
+baseline. Exclamatives are information-structurally inert with respect to givenness, due to
+incompatibility with the prosodic constructional default.
+
+* H2. Contrast (vs. Newness): In questions and in exclamatives, contrast is marked by
+
+increased prominence, like in assertions. In questions, increased prominence involves an
+inverse deviation from the pitch baseline in comparison to assertions because of the rising
+
+contour. Exclamatives should not be information-structurally inert for contrast because
+the prosodic constructional default of exclamatives is fully compatible with increased
+prominence(s).
+
+We predict that increased prominence will be realized by an increased frequency of categorical
+
+marking, and by the gradient effects of increased excursion, larger deviations from the pitch
+baseline, and longer duration, which might correlate with the more frequent occurrence of more
+
+prominent accent types, such as L+H* rather than H* for falling contours. We predict that
+decreased prominence will be realized by the corresponding opposite measures.
+
+Due to the still scarce evidence on the prosodic realization of different types of exclamatives
+
+and certain types of questions, our study also examined IS-independent characteristics of polar
+exclamatives and questions. A replication of earlier results is expected to show that exclamatives
+have a low boundary tone whereas questions predominantly have a high boundary tone;
+
+exclamatives have a slower speaking rate than questions; exclamatives contain the so-called
+exclamative accent, potentially in addition to focus-marking accents, so that the number of
+accents should be higher in exclamatives than in questions.
+
+9
+
+10
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+4.2. Materials and Design
+The target sentences in the experiment were German transitive verb-first structures. They
+
+consisted of a monosyllabic finite auxiliary verb, a monosyllabic subject d-pronoun, a disyllabic
+
+gradable adjective or quantifier modifying the object, the disyllabic object, and a trisyllabic nonfinite lexical verb with stress on the second syllable:
+(2)
+
+Hat der
+kleine Lamas gefunden
+has hedpron small Llamas found
+
+target sentence
+
+The target sentences were embedded in a dialogue between two speakers (see (3)) so that the
+context and the punctuation disambiguated the speech act, and the context disambiguated the
+three IS conditions: New, contrastive or given information. In the new condition, speaker 1
+
+introduces a hypernym of the object of the target utterance (i.e., in (3) domestic animals as a
+
+hypernym of llamas). Speaker 2 mentions the object (only) in the target sentence. In the given
+condition, speaker 1 introduces the object occurring in the target sentence by using the same
+expression as in the target utterance (i.e., there is across-speaker repetition of lexical material).
+
+In the contrastive condition, speaker 1 introduces a focus alternative to the object of the target
+sentence (i.e., guinea pigs in (3)). Speaker 2 mentions this alternative, brushes it aside in their first
+sentence(s), and then utters the target sentence.2
+
+Concerning the new condition, we note that elements for which a hypernym has been
+
+mentioned in the context have been considered to be accessible rather than new (Baumann &
+Riester, 2013). However, as has also been observed (Baumann et al., 2015), the hypernym-
+
+hyponym (superset-set) relation is sensitive to the distinction between referent vs. lexical item.
+
+In a dialogue like A: Do you like animals? B: I like all dogs., dogs cannot be deaccented because we
+
+cannot identify dog referents on the basis of an animal referent superset. Thus, referentially, `dogs'
+are not accessible; dogs is only lexically a hyponym of animals. In comparison, when a hyponym
+
+denotes a referent that has been introduced otherwise, there can be deaccentuation. Consider
+the following sequence from Baumann & Grice (2006): Ole was a talented sportsman. He was well-
+
+known in his region. The local press praised the tennis player. Observe that tennis player, which is
+
+a hyponym of sportsman, can be deaccented. However, also observe that the referent of tennis
+
+player has been introduced by the name Ole, which really is the trigger for the deaccentuation
+(Baumann & Grice, 2006). In our materials, the referents of the object noun are not identifiable
+
+on the basis of the superset (or otherwise). This is especially true because the superset always
+is very large. For this reason, we are speaking of new information focus. Future research must
+2
+
+The sample item in Seeliger & Repp (2020) differs from the current, correct description: There was a local mix-up of
+speaker 1/2.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+11
+
+show if there are prosodic differences between completely `unprepared' information (which is an
+option we did not choose, to ensure coherence), and information for which there is a referential
+superset in the context.
+(3)
+
+Sample experimental item
+
+Speaker 1: Polar exclamative and polar question conditions
+Hast du schon die Ergebnisse von der Forschungsreise nach Sudamerika mitbekommen? Die
+wollten ja in den Anden besonders kleine { NEW/CONTRASTIVE Nutztierarten,
+
+GIVEN
+
+Lamas} finden,
+
+die bisher nicht beschrieben waren. Und die Leute waren echt erfolgreich. Frank zum Beispiel.
+
+`Have you heard about the results of the research trip to South America? They went to the Andes to
+look for particularly small species of {NEW/CONTRASTIVE domestic animals, GIVEN llama(s)} that hadn`t
+been described previously. And they were really successful. Frank, for instance.'
+New & Given:
+
+Bei dem lief es richtig gut.
+He was really lucky.
+
+Contrast:
+
+Der hat total winzige Meerschweinchen gefunden.
+He found very tiny guinea pigs.'
+
+Speaker 2 (participant): Polar exclamative conditions
+New & Given:
+
+Ja, total! Hat der kleine Lamas gefunden!
+`Yeah, totally! (Boy!) Did he find small llamas!'
+
+Contrast:
+
+Na, Meerschweinchen sind doch unspektakular! Hat der kleine Lamas gefunden!
+`Well, guinea pigs are unspectacular! (Boy!) Did he find small llamas!'
+
+Echt uberraschend!
+`Really surprising!'
+Speaker 2 (participant): Polar question conditions
+New & Given: Ach, echt? Hat der kleine Lamas gefunden?
+`Oh, really? Did he find small llamas?'
+Contrast:
+
+Naja, die Meerschweinchen finde ich noch vergleichsweise unspektakular.
+Aber sonst? Hat der kleine Lamas gefunden?
+`Well, I think the guinea pigs are comparatively unspectacular. But otherwise?
+Did he find small llamas?'
+
+Das wurde ich spannend finden.
+`I`d find that exciting.'
+
+12
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+The experimental materials consisted of nine items in 2 x 3 conditions each, for a total of 54
+recordings per participant.
+
+The experiment also contained nine filler items in three pseudo-conditions each.3 These
+
+fillers were included as distractors but we also used them as controls when some of the results
+for the experimental items turned out to be unexpected. Therefore, we describe the fillers here
+in detail and discuss some of the prosodic characteristics of the filler sentences produced by
+
+the participants in Section 6, where we discuss the experimental results. The fillers were stringidentical in the two recording sessions but represented a different speech act in each session.
+In session 1 (testing polar exclamatives), they were negative declarative questions, see (4). In
+
+session 2 (testing polar questions), they were negative declarative sentences used as rejections,
+see (5). Thus, across experimental items and fillers, each session contained a balanced number
+of questions and non-questions.
+
+The entire lexical content of the fillers was given. They could thus serve as a comparison for
+
+the accentuation of given material in two more non-assertive speech acts.
+(4)
+
+Sample filler item: Type declarative question
+
+Speaker 1:
+
+Torsten ist echt dreist. Anna hatte ihre Gaste ja gebeten, statt Geschenken
+
+Blumen mitzubringen. Aber meinst du, Torsten interessiert das? Also ich
+wurde den ja nie wieder einladen.
+
+`Torsten is really brash. As you know, Anna had asked her guests to bring flowers
+
+instead of presents. But do you think Torsten cares about that? I for one would
+never invite him again.'
+Speaker 2:
+
+Moment mal.
+
+(participant)
+
+`Wait a moment.'
+Der
+
+hat
+
+keine
+
+Blumen
+
+mitgebracht?
+
+hedpron
+
+has
+
+no
+
+flowers
+
+brought
+
+target filler sentence
+
+`He didn`t bring flowers?'
+Arbeitet der nicht in einer Gartnerei?
+`Doesn`t he work in a plant nursery?'
+
+3
+
+The pseudo-conditions were realized as small alterations of the clause following the filler target sentence (e.g., different polar questions, tag question). This avoided procedural differences between fillers and experimental items, which
+were also presented three times with small variations.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+(5)
+
+13
+
+Sample filler item: Type rejection
+
+Speaker 1:
+
+Ich fand die Idee von Julia toll, dass alle ihre Gaste anstelle von Geschenken
+
+Blumen mitbringen sollen. Das riecht hier super! Ich bin vor allem gespannt,
+was Torsten so mitgebracht hat. Der arbeitet ja in einer Gartnerei.
+
+`I loved Julia`s idea that all her guests bring flowers instead of presents. It smells so
+
+nice in here! I`m especially looking forward to what Torsten brought. As you know,
+he works in a plant nursery.'
+Speaker 2:
+
+Moment mal.
+
+(participant) `Wait a moment.'
+Der
+
+hat
+
+hedpron has
+
+keine
+
+Blumen
+
+mitgebracht!
+
+no
+
+flowers
+
+brought
+
+target filler sentence
+
+`He didn`t bring flowers!
+Hat er dir das nicht erzahlt?
+`Didn`t he tell you?'
+All fillers began with Der hat keine... `He has no...', followed by the direct object and the nonfinite lexical verb. The metrical structure and segmental make-up were less controlled than in
+the experimental items.
+
+4.3 Participants
+The experiment had 27 participants (mean age: 21.8, range: 18-28). All participants were female
+
+native speakers of German who were recruited from the student population of the University of
+
+Cologne, and were either paid or received course credit.4 The study was run in the XLinC Lab
+
+Cologne under the laboratory ethics approval #2016-09E2-200213 by the German Linguistic
+Society. Participants gave written consent.
+
+4.4 Procedure
+The recordings were made in two sessions to reduce repetitiveness and the duration of the
+
+experimental session(s). The sessions were separated by at least six days. In session 1, the 27
+exclamatives were recorded, in session 2 the 27 questions were recorded.
+
+4
+
+One participant of the first session is different from the set of participants reported in Seeliger and Repp (2020). She
+was replaced because of a no-show for the second session. This had no impact on the significance levels.
+
+14
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+The participants took the role of speaker 2 in the dialogs illustrated in Section 4.2. The dialogs
+
+were presented via headphones and through accompanying text on a computer monitor. Each
+
+dialog was preceded by a caption (e.g., A discussion at the institute for biology at a university), with
+a photograph of this setting. Then the dialog between the two speakers, who were represented by
+silhouettes, began. The part of speaker 1 was presented in a speech bubble and also played through
+headphones. After a button press, the participants read the part of speaker 2 in another speech
+
+bubble. Another button press started the recording. Participants could repeat their utterances
+
+until they were satisfied with them. Another button press stopped the recording and advanced to
+the next dialog. The dialogs were presented in four pseudo-random orders. Every participant saw
+
+and recorded every dialog in every condition. We used Presentation (Neurobehavioral Systems.
+
+https://neurobs.com/) for the presentation of the stimuli and the recordings, which were made
+at a sampling rate of 44.1 kHz and a bit depth of 16 bits, using an omnidirectional DPA 4060
+microphone.
+
+4.5 Dependent variables
+We investigated the following variables on the syllable level: Mean F0, maximum F0, minimum
+
+F0, F0 excursion (F0max - F0min), duration (log-transformed), and intensity. F0 was measured in
+
+semitones relative to 1 Hz. Across variables involving F0, we only compared accented syllables
+of the same accent types.
+
+On the utterance level, we investigated speech rate, pitch excursion, mean pitch, and intensity
+
+(mean and range). We operationalized speech rate as the number of (underlying) syllables per
+second (i.e., nine syllables divided by the total duration in seconds).
+
+As categorical variables, we investigated accent placement, accent type, prominence levels
+
+of accents, and boundary tones. Many syllables were accented either so often or so rarely that
+there were issues with the model fit. We will note these issues below as they come up. The accent
+
+types that we investigated were the GToBI accents (Grice et al., 2005). The prominence levels
+that we investigated are those of the DIMA scheme (Kugler et al., 2015, 2019): Level 1 for weak
+
+prominences (post-focal prominences, rhythmic accents and phrase accents), level 2 for strong
+prominences (nuclear accents), and level 3 for extra-strong prominences (emphatic realizations
+of nuclear accents).
+
+4.6 Data preparation
+Recordings containing slips of the tongue or deviations from the lexical materials were excluded
+from the analysis (30 exclamatives and 11 questions out of a total of 1458 recordings). One
+participant's recordings of the questions were discarded because of a technical error. This left
+699 exclamatives and 691 questions for analysis.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Large outliers in any of the dependent variables were corrected manually if they represented
+
+measurement or annotation errors, or were left in the data if they represented real outliers.
+
+The recordings were annotated in Praat (Boersma & Weenink, 2021) by two trained research
+
+assistants. We used a modified version of the DIMA scheme (Kugler et al., 2015, 2019),5 using
+the following tiers: Syllable boundaries, GToBI tones, prominence levels, final boundary tone.
+We did not use a phrase boundary tier, since the target utterances were expected to constitute
+single intonational phrases, which indeed they did. After an initial round of annotation, the
+research assistants checked each other's annotations and reached a consensus for conflicts in the
+annotations.
+
+Pitch was sampled every 10 ms. We manually inspected and corrected the pitch tracks produced
+
+by Praat, in case there were octave jump errors or spurious voicing. The summarizing statistics were
+calculated directly in R (R Core Team, 2021), using R package rPraat (Boril & Skarnitzl, 2016).
+
+There were two practical challenges regarding syllabification. First, some items contained
+
+sequences of liquids and/or nasals that resulted in the frequent reduction of the number of realized
+syllables (e.g., /n/  []). When this happened, we annotated the unrealized syllable such
+
+that it only covered the final period of the nasal. The resulting bimodal distribution of syllable
+
+durations allowed us to treat unrealized syllables (and syllables preceding them) differently.
+Second, potentially ambisyllabic consonants (e.g., /m/ in /hm/), were treated as the onset of
+the subsequent syllable: /h.m/, to ensure annotation consensus.
+
+5. Results
+For the statistical analysis, we fitted linear mixed models (or generalized linear mixed models, if
+
+applicable) using R packages lme4 (Bates, Machler, Bolker, & Walker, 2015) and afex (Singmann,
+Bolker, Westfall, Aust, & Ben-Shachar, 2021). The p-values were obtained using R package
+
+lmerTest (Kuznetsova, 2017), using the Kenward-Roger method for computing the degrees of
+freedom. The utterance-level measures were analyzed using LMMs with two predictors: Object
+Status and Speech Act. The measures related to accent placement and accent type were
+
+analyzed using binomial GLMMs (logit-link) with one predictor (Object Status). The syllablelevel measures were analyzed with LMMs with one predictor (Object Status).
+
+For model selection, we started with the maximal model (Matuschek, Kliegl, Vasishth,
+
+Baayen, & Bates, 2017), reducing the random structure in case of convergence issues. Below, we
+
+describe each model's final random effects structure alongside its coefficients using the following
+
+shorthand(s): An intercept-only model contains no random slopes. A maximal model contains
+by-subject random slopes for all predictors, but (except for one model) not a random slope
+5
+
+Our annotation used the tone labels of GToBI (Grice et al., 2005) instead of the more theory-neutral H and L labels
+of DIMA (Kugler et al., 2015).
+
+15
+
+16
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+for the interaction of predictors. For non-maximal models with random slopes, we indicate the
+
+particular random by-subject slopes with subscripts: OS (Object Status), SA (Speech Act),
+OS+SA (both factors), OS*SA (interaction).
+
+The models with the single predictor Object Status were treatment-coded with New objects
+
+as the baseline. Two-predictor models (for the utterance-level measures) were fitted with sum
+coding for two subsets of the data: One subset containing the utterances with new and contrastive
+
+objects, and one subset containing the utterances with new and given objects. The reason is that
+a model with sum-coded 3 x 2 factors does not test our hypotheses because the baseline, which
+
+is the overall grand mean across speech acts and object statuses, is not theoretically meaningful.
+A 2 x 2 comparison is symmetric and allows more straightforward conclusions about the factors'
+
+main effects. We report Holm-Bonferroni corrected p-values for the Speech Act comparisons.
+
+Effect sizes for the utterance-level measures are given for questions and for utterances with nonnew objects (i.e., contrastive objects in the New vs. Contrast model, and given objects in the
+New vs. Given model).
+
+5.1. Utterance-level measures
+Figure 1 shows the means of the utterance-level measures.
+
+Figure 1: Utterance-level acoustic measures. Means are marked by diamonds.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Mean pitch. There was an effect of Speech Act in both models: Mean pitch was higher
+
+in questions than in exclamatives (New vs. Contrast modelSA+OS: b = 1.18, SE = 0.1,
+
+t = 11.5, p < 0.001; New vs. Given modelSA: b = 1.3, SE = 0.1, t = 11, p < 0.001).
+
+There was also an effect for the New vs. Contrastive comparison (b = -0.23, SE = 0.04,
+t = -5.7, p < 0.001), which was involved in an interaction with Speech Act (b = -0.07,
+SE = 0.03, t = 2.2, p < 0.05): Mean pitch was lower in utterances with Contrastive
+
+than with New objects, and the effect was more pronounced in questions than in
+exclamatives.
+
+Pitch range. There was an effect of Speech Act in both models: Pitch range was higher in
+
+questions than in exclamatives (New vs. Contrast modelSA+OS: b = 1.7, SE = 0.18, t = 9.6,
+
+p < 0.001; New vs. Given modelSA: b = 2.3, SE = 0.22, t = 10.8, p < 0.001). Additionally,
+there was an effect of Contrastive focus (b = 0.54, SE = 0.1, t = 5.4, p < 0.001), which was
+
+involved in an interaction (b = -0.57, SE = 0.07, t = -8.4, p < 0.001): Contrastive focus led to
+a higher pitch range, but only in exclamatives.
+
+Mean intensity. Mean intensity did not show significant differences for either Object
+
+Status or Speech Act, only tendencies. Descriptively, mean intensity tended to be lower for
+
+questions (New vs. Contrast modelSA*OS: b = -1.9, SE = 0.9, t = -2, p < 0.2; New vs. Given
+modelSA+OS: b = -1.8, SE = 0.9, t = -1.9, p < 0.2) and for utterances containing contrastive
+objects (b = -0.14, SE = 0.08, t = -1.9, p < 0.1).
+
+Intensity range. Intensity range did not exhibit significant differences for Object Status.
+
+As for Speech Act, intensity range was lower in questions than in exclamatives in both models
+
+(New vs. Contrast modelSA+OS: b = -1.3, SE = 0.2, t = -8.7, p < 0.001; New vs. Given
+modelSA+OS: b = -1, SE = 0.2, t = -5.6, p < 0.001).
+
+Syllables per second. There was an effect of Speech Act in both models: Speaking
+
+rate was higher in questions than in exclamatives (New vs. Contrast modelSA+OS: b = 0.36,
+SE = 0.03, t = 11.3, p < 0.001; New vs. Given modelSA: b = 0.36, SE = 0.03, t = 11.2,
+
+p < 0.001). There were no significant differences for Object Status and no significant
+interactions.
+
+We assume that most of the significant differences on the utterance level can be traced to
+
+differences on the syllable level or to other local effects. For instance, if most questions ended in a
+
+final rise/high boundary tone, pitch range might be higher in questions than in exclamatives just
+because of the boundary tone. Similarly, pitch range in exclamatives containing a contrastively
+focused object might well be higher than in exclamatives containing a new object because the
+nuclear accent on the object is more prominent than in the other two conditions (i.e., without
+
+pitch range on all syllables being higher). We return to this issue after the investigation of accent
+
+placement in Section 5.3, since accent placement determines which acoustic comparisons can be
+made.
+
+17
+
+18
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+5.2. Final boundary tone
+In the following, we will speak of high boundary tones and/or final rises if the boundary tone is
+H-^H% or L-H%, and of low boundary tones and/or final falls if the boundary tone is L-%.
+
+The difference between the speech acts in terms of boundary tones was very stark:
+
+Questions overwhelmingly ended with a high boundary tone (i.e., a final rise), and exclamatives
+
+overwhelmingly ended with a low boundary tone (i.e., a final fall). Exceptions were few: 10 out
+of 699 exclamatives were rising, and nine out of 691 questions were falling.
+
+5.3. Accentuation patterns
+Figures 2 and 3 show the accentuation of stressed syllables in the words of the target sentences,
+split by GToBI accent types and annotated prominence levels. More prominent accents are
+represented by darker colors. Note that these data are pooled across all utterances (i.e., the
+
+figures do not show which accents co-occurred within the same utterance). We return to the
+latter issue further below (for accent types see Section 5.3.1; for perceived prominence levels see
+Section 5.3.2).
+
+Figure 2: Distribution of accented syllables in the exclamatives.
+The most salient patterns in Figures 2 and 3 are as follows: (i) In both speech acts, the
+
+most frequent accent carrier was the object, (ii) the d-pronoun very often carried an accent in
+exclamatives, but virtually never in questions, (iii) the clause-final lexical verb quite frequently
+
+carried an accent in questions, but almost never in exclamatives, (iv) with very few exceptions,
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Figure 3: Distribution of accented syllables in the questions.
+L* accents occurred only in questions. Furthermore, the auxiliary appears to be able to carry an
+
+accent only in exclamatives, while the adjective/quantifier6 may carry an accent in both speech
+acts, although it did so more often in questions than in exclamatives.
+
+The influence of IS and speech act on accent placement can be summarized as follows: (v) In
+
+both speech acts, the IS status of the object has a comparatively small impact on the accentuation
+of the object itself, and a comparatively larger impact on the accentuation of one other element:
+
+The d-pronoun in exclamatives, and the adjective in questions, (vi) contrastive focus leads to
+
+high accentuation rates on the object and to low accentuation rates on the respective non-object
+element, (vii) in questions with a given object, the object is accented slightly less often than in
+
+questions with a new object, whereas the accentuation rate of the adjective is slightly higher in
+questions with a given, than a new object.
+
+5.3.1. Accent placement and accent type
+To quantify the influence of IS on accent placement, we fitted five models with the presence of an
+accent on a syllable as the dependent variable: For the objects of exclamatives, for the objects of
+
+questions, for the d-pronoun subjects of exclamatives, for the adjectives in questions, and for the
+lexical verbs in questions. The predictor was the IS status of the object. Recall that these models
+are treatment-coded with New objects as baseline.
+
+6
+
+In the following, we use adjective for these prenominal elements.
+
+19
+
+20
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Objects in exclamatives were accented more often when the object was Contrastive than
+
+when it was New (intercept-only model: b = 1.8, SE = 0.6, z = 3.1, p < 0.01). There was no
+
+significant difference between New and Given objects. Objects in questions were also accented
+more often when the object was Contrastive than when it was New (intercept-only model: b =
+3.1, SE = 1, z = 2.9, p < 0.01). Given objects in questions were accented less often than New
+objects, but not to a significant extent (b = -0.7, SE = 0.4, z = -1.9, p = 0.053).
+D-pronouns
+
+in
+
+exclamatives
+
+were
+
+accented
+
+less
+
+often
+
+when
+
+the
+
+object
+
+was
+
+Contrastive than when it was New (intercept-only model: b = -2.5, SE = 0.3, z = -8.7,
+
+p < 0.001). Adjectives in questions were also accented less often when the object was
+Contrastive than when it was New (intercept-only model: b = -2.6, SE = 0.5, z = -5.2, p <
+0.001), and more often when the object was Given than when it was New (b = 0.8, SE = 0.27,
+
+z = 3, p < 0.01).
+
+Lexical verbs in questions were accented less often in utterances with Contrastive objects
+
+than in utterances with New objects, but not to a significant extent.
+
+We also fitted three models investigating accent type choice: The choice of L+H* rather
+
+than H* on the objects of exclamatives, the choice of L* vs. high starred tones on the objects
+
+of questions, and the choice of L+H* vs. H* on the d-pronoun subject of exclamatives. L+H*
+
+accents in exclamatives were more frequent on Contrastive objects and less frequent on
+Given objects, both relative to New objects (maximal model: Contrast - b = 3.3, SE =
+0.5, z = 6.6, p < 0.001, Given - b = -0.7, SE = 0.3, z = -2.1, p < 0.05). There were no
+
+significant differences regarding the object accents in questions: L* accents were roughly
+
+equally frequent in all conditions. L+H* accents on the d-pronoun subjects of exclamatives
+were slightly less frequent when the object of the utterance was Contrastive than when it
+
+was New, without reaching significance (intercept-only model: b = -0.55, SE = 0.3, z =
+-1.7, p = 0.09).
+
+In summary, contrastive focus on the object led to a significant increase in the number
+
+of accented realizations of the object in both exclamatives and questions. In exclamatives, there
+
+was also a significant increase in the number of L+H* accents. One other element was accented
+significantly less often in both speech acts when the object was contrastive: The d-pronoun in
+
+exclamatives, and the adjective in questions. Differences between New and Given information
+
+were found for the accent choice on objects of exclamatives (L+H* was less common on Given
+objects than on New objects), and for accent placement on adjectives in questions (they were
+
+accented more often when the object was Given than when it was New). Crucially, however,
+there were no significant differences between New and Given objects in terms of accentuation
+rate of the object noun (i.e., in the measure that was a priori expected to be most likely to show
+evidence of deaccentuation of given objects).
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+5.3.2. Perceived prominence
+The patterns of perceived prominence can only be summarized descriptively, since the data are
+
+very imbalanced. For the exclamatives we found that under contrastive focus, most object
+
+accents had prominence level 2, while New and Given objects were much more likely to carry
+accents of prominence level 1 (mostly H*). The d-pronoun shows a complementary picture:
+The (comparatively few) accents that occurred when the object was contrastively focused were
+
+mostly prominence level 1. In the New and Given conditions, the d-pronoun was more likely to
+carry accents of prominence level 2 (of varying accent types). These patterns match those for the
+accentuation rates that we just saw.
+
+In questions, the prominence level of the object showed little sensitivity to its IS status: The
+
+vast majority of object accents were of prominence level 2, regardless of IS. Thus, the nuclear
+accent in questions regularly occurred on the object. As already mentioned, the type of accent
+did not show a sensitivity to IS, either.
+
+Finally, the lexical verb in questions was nearly always of level 1 when it was accented,
+
+regardless of the IS status of the object.
+
+5.3.3. Contours: Combinations of accent types and combinations of prominence levels
+We next turn to the issue of which accented syllables tended to co-occur in one utterance. Figure 4
+
+shows the most common accent type combinations (i.e., contours) by experimental condition.
+Figure 5 shows examples for the two most common contours in each speech act.
+
+Figure 4: Percentage of contours within conditions per speech act. The question contours are
+ordered top-to-bottom by occurrence rate; the exclamative contours are roughly ranked by
+(presumed) cumulative prominence: Double L+H* accents > combinations of one L+H* accent
+and one H* accent > double H* accents > single H* accents. DSub = subject d-pronoun; Other
+= contours occurring in fewer than 5%, pooled.
+
+21
+
+22
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Figure 5: Example contours for the two most common contour types in each speech act. Top:
+Exclamatives. Bottom: Questions. Each utterance was produced by a different participant.
+Gloss/Translation of the example: Has he wild bulls ridden; Has he ridden wild bulls'.
+Exclamatives exhibited a greater variety of contour types than questions, and they also had
+
+more contours with multiple prominences. In questions, the most common contour type in each
+
+condition was a single L* accent on the object. In both speech acts, Contrastive focus led to
+
+an increase of single accents on the object (i.e., to a reduction of accentuation elsewhere in
+the utterance). For exclamatives, this means that the accent on the d-pronoun, which in the
+New and Given conditions regularly occurs as a second accent, is present less frequently in the
+Contrastive condition. The single accent was the more prominent L+H* accent.
+
+Figure 6 shows the co-occurrence of accented syllables by prominence levels. The top facets
+
+illustrate the competition for prosodic prominence between the object and the d-pronoun in
+
+exclamatives that we saw above from another perspective: When the object was New or Given,
+the additional accent on the d-pronoun was more often more prominent than the accent on the
+
+object (level 2 vs. 1). This suggests that it was the nuclear accent in almost half of the utterances.
+In exclamatives with Contrastive objects, the object had a higher prominence than the accent
+on the d-pronoun (when it was not the only accent anyway).
+
+5.4. Syllable-level measures
+We now turn to the continuous measures on the syllable level. For the pitch-related variables
+maximum pitch, minimum pitch, and pitch range, we divided the data into subsets according
+
+to the respective syllable's starred tone: We pooled syllables carrying H* and L+H* accents,
+and syllables carrying L* and L*+H accents.7 For the two variables that are not related
+7
+
+L*+H accents did not occur in the experimental items, only in the fillers (Section 6.2).
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Figure 6: Percentage of prominence level combinations within conditions per speech act. See
+caption of Figure 5 for abbreviations.
+to pitch - intensity and duration - we pooled all accented syllables regardless of GToBI
+accent. The theoretical motivation for these subsets is that our hypotheses regarding the
+impact of the IS status of the object on its prosodic characteristics only differentiate between
+
+high/rising and low/falling accents, instead of between specific GToBI types within these
+
+broader groups. An additional, practical motivation is that the choice of GToBI accent
+and the IS status of the object were correlated, as described in Section 5.3. For example,
+H* accents were quite rare on contrastively focused objects in exclamatives, while L+H*
+
+accents were rare in the other two conditions. Such imbalance produces issues with
+model fits.
+
+We investigated maximum pitch only for syllables with high starred tones and minimum
+
+pitch only for syllables with low starred tones. We investigated pitch range for both types
+
+of starred tones. High starred tones occurred both in exclamatives (on the object and on the
+d-pronoun) and in questions (on the object). Low starred tones occurred only in questions (on
+the object and on the lexical verb).
+
+In the following, we will discuss the results by syllable and speech act, starting with the
+
+object in both speech acts.
+
+5.4.1. Object: Exclamatives & Questions
+Table 1 shows the sample sizes underlying the statistics for the object. Table 2 further below
+summarizes the acoustic measures.
+
+23
+
+24
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Exclamative
+
+Question
+
+H*
+
+L+H*
+
+H* & L+H*
+
+L*
+
+Unaccented
+
+New
+
+144
+
+64
+
+208
+
+0
+
+19
+
+Contrast
+
+48
+
+180
+
+228
+
+6
+
+4
+
+Given
+
+166
+
+50
+
+216
+
+0
+
+18
+
+New
+
+11
+
+58
+
+69
+
+144
+
+16
+
+Contrast
+
+4
+
+62
+
+66
+
+163
+
+1
+
+Given
+
+18
+
+58
+
+76
+
+128
+
+28
+
+Table 1: Number of objects by condition and GToBI accent type. The sample sizes underlying the
+inferential statistics are in boldface.
+Exclamatives. In exclamatives, maximum pitch on objects with a high starred tone was
+
+higher when the object was Contrastive than when it was New (intercept-only model: b = 2.6,
+SE = 0.2, t = 11.2, p < 0.001), and it was lower when the object was Given than when it was
+New, although not significantly so (b = -0.39, SE = 0.23, t = -1.6, p = 0.1).
+
+Objects with high starred tones in exclamatives also had a larger pitch excursion when the
+
+object was Contrastive than when it was New (intercept-only model: b = 4.1, SE = 0.24, t =
+
+17.2, p < 0.001), while Given objects had a smaller pitch excursion than New objects, although
+not significantly so (b = -0.4, SE = 0.24, t = -1.7, p = 0.1).
+
+Finally, Contrastive objects in exclamatives differed from New objects both in duration
+
+and intensity: they were both significantly longer (intercept-only model, log transformed
+
+dependent variable: b = 0.14, SE = 0.015, t = 9.6, p < 0.001) and louder (maximal model:
+b = 1.05, SE = 0.3, t = 3.3, p < 0.01) than New objects.
+
+Questions. The stressed syllable in objects in questions was unique in that it occurred
+
+both with high and with low starred pitch accents often enough to be analyzable with mixed
+models. Maximum pitch for objects with high starred tones was significantly lower when the
+
+object was Contrastive than when it was New (intercept-only model: b = -1.1, SE = 0.38,
+
+t = -2.9, p < 0.01). On objects with low starred tones, minimum pitch was significantly
+lower when the object was Contrastive than when it was New (intercept-only model: b =
+
+-0.47, SE = 0.14, t = -3.2, p < 0.01). There were no significant differences in the pitch range
+of high-starred or low-starred accents between any of the conditions. Low-starred objects
+
+numerically showed the lowest pitch range when New, with Given and Contrastive objects
+somewhat higher.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+25
+
+There were no significant differences for duration or intensity for objects in questions.
+Speech act
+
+Accent New
+type
+
+Contrastive
+(vs. new)
+
+Given
+(vs. new)
+
+Max. F0
+
+Exclamative
+
+High
+
+95.0
+
+(2.7)
+
+97.5
+
+(3.3)
+
+***
+
+94.5
+
+(2.5)
+
+(st)
+
+Question
+
+High
+
+101.2
+
+(3.0)
+
+100.1
+
+(3.8)
+
+**
+
+101.2
+
+(3.3)
+
+Min. F0 (st)
+
+Question
+
+Low
+
+89.5
+
+(2.1)
+
+88.96
+
+(2.1)
+
+**
+
+89.7
+
+(2.0)
+
+F0 range
+
+Exclamative
+
+High
+
+3.3
+
+(2.7)
+
+7.4
+
+(3.8)
+
+***
+
+2.9
+
+(2.1)
+
+(st)
+
+Question
+
+High
+
+9 .0
+
+(4.0)
+
+9.2
+
+(3.7)
+
+8.3
+
+(4.2)
+
+Question
+
+Low
+
+3.5
+
+(2.0)
+
+3.8
+
+(2.3)
+
+3.6
+
+(2.3)
+
+Duration
+
+Exclamative
+
+pooled
+
+208.7
+
+(75.6)
+
+240.8
+
+(83.4)
+
+207.8
+
+(70.8)
+
+(ms)
+
+Question
+
+pooled
+
+201.1
+
+(65.8)
+
+199.6
+
+(68.8)
+
+200.4
+
+(64.3)
+
+Intensity
+
+Exclamative
+
+pooled
+
+60.1
+
+(8.0)
+
+61.5
+
+(8.1)
+
+60.2
+
+(8.0)
+
+(dB)
+
+Question
+
+pooled
+
+56.6
+
+(7.2)
+
+56.6
+
+(7.3)
+
+57.0
+
+(7.4)
+
+***
+
+**
+
+Table 2: Means (and standard deviations) for the acoustic measures for the accented syllable of
+objects by speech act and accent type. Significant differences are in boldface. Asterisks indicate
+significance levels (***: p < 0.001; **: p < 0.01, *: p < 0.05).
+
+5.4.2. D-pronoun: Exclamatives
+Turning to the d-pronoun subject, which was frequently accented in exclamatives (with a
+
+frequency reduction in utterances with contrastive focus; the accent always involving a high
+
+starred tone, Section 5.3), we found that maximum pitch was lower for the d-pronoun when the
+object was Contrastive (intercept-only model: b = -1, SE = 0.2, t = -5.2, p < 0.001). There
+was no difference between the maximum pitch of d-pronouns in New vs. Given utterances.
+
+D-pronouns in exclamatives had lower pitch range when the object of the utterance was
+
+Contrastive (intercept-only model: b = -0.4, SE = 0.15, t = -2.8, p < 0.01). There was no
+difference in the pitch range of d-subjects in New vs. Given utterances.
+
+The duration of d-pronouns in exclamatives containing a Contrastive object was shorter
+
+than that of d-pronouns in exclamatives with New objects (maximal model, log-transformed
+
+dependent variable: b = -0.16, SE = 0.03, t = -4.8, p < 0.001). There were no differences in
+intensity. Table 3 summarizes the acoustic measures.
+
+26
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+New
+
+Contrastive (vs. new)
+
+Given (vs. new)
+
+Maximum F0 (st)
+
+96.2
+
+(2.3)
+
+95.4
+
+(1.9)
+
+***
+
+96.2
+
+(2.4)
+
+Pitch range (st)
+
+2.7
+
+(1.6)
+
+2.3
+
+(1.2)
+
+**
+
+2.77
+
+(1.6)
+
+Duration (ms)
+
+235.5
+
+(61.2)
+
+213.8
+
+(68.5)
+
+***
+
+234.5
+
+(63.8)
+
+Mean intensity (dB)
+
+62.2
+
+(8.1)
+
+61.8
+
+(8.3)
+
+62.1
+
+(8.2)
+
+Table 3: Means (and standard deviations) for the acoustic measures of d-pronouns in exclamatives
+(high starred tones). For the mark-up, see Table 2.
+
+5.4.3. Lexical verb: Questions
+Finally turning to the other syllable in questions which carried L* accents often enough to be
+analyzable with mixed models - the clause-final lexical verb - we found that Contrastive
+
+focus on the object led to a significantly lower pitch minimum (intercept-only model: b = -0.5,
+SE = 0.24, t = -2, p < 0.05). There were no other significant differences in any of the measures.
+
+Table 4 gives an overview.
+
+New
+
+Contrastive (vs. new)
+
+Given (vs. new)
+91.6
+
+(2.3)
+
+Minimum F0 (st)
+
+91.4
+
+(1.7)
+
+90.8
+
+(1.8)
+
+*
+
+Pitch range (st)
+
+2.9
+
+(2.7)
+
+3.0
+
+(2.7)
+
+2.7
+
+(2.5)
+
+Duration (ms)
+
+237.6
+
+(88.7)
+
+245.0
+
+(88.7)
+
+243.0
+
+(88.9)
+
+Mean intensity (dB)
+
+53.6
+
+(7.5)
+
+53
+
+(8.1)
+
+53.6
+
+(8.0)
+
+Table 4: Means (and standard deviations) for the acoustic measures of lexical verbs in questions
+(L* accents). For the mark-up, see Table 2.
+
+6. Discussion
+Our study set out to investigate the prosodic marking of given and contrastive information in
+comparison to new information in two non-assertive speech acts: Polar exclamatives and polar
+questions. Before we discuss our results pertaining to this goal, we note that our study replicated
+
+almost all earlier findings on speech act marking: (i) Questions were almost exclusively realized
+with a high boundary tone and thus a rising contour, and exclamatives with a low boundary tone
+
+and thus a falling contour; (ii) questions were spoken faster than exclamatives; (iii) exclamatives
+contained an exclamative accent on the d-pronoun (also in addition to [contrastive] accents
+on the object). The observation that the subject d-pronoun was the only main attractor of an
+accent in the clause-initial region is surprising given that Repp and Seeliger (2020) found the
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+clause-initial finite auxiliary to be a frequent attractor of the exclamative accent. We propose
+
+that this discrepancy results from a competition between the two attractors. The structures tested
+by Repp and Seeliger (2020) contained either an auxiliary or a d-pronoun, but never both. The
+
+structures tested here always contained both. Since both elements are adjacent, it seems unlikely
+that they both carry a prominent accent, purely for rhythmic reasons. Our results indicate
+
+that the d-pronoun is the preferred exponent of the exclamative accent for most participants.
+Hence, accents on the auxiliary are rare if a d-pronoun is also present. Note that one participant
+consistently placed an accent on the auxiliary rather than on the d-pronoun. We thus have some
+evidence that accents on the auxiliary and on the d-pronoun are mutually exclusive because they
+are adjacent in these structures.
+
+In the following we discuss the marking of IS, starting with contrast and then moving on to
+
+givenness.
+
+6.1. Contrast: Prenuclear effects, nuclear effects, and phonological categories
+Contrastive focus largely was marked as expected, although there were also some important
+unexpected results. As hypothesized (H.2), contrastive focus led to increased prosodic prominence
+in both speech acts. We found more frequent accentuation of the focused object in both speech
+
+acts, and a significant increase in the number of L+H* accents in exclamatives. We also found
+phonetic differences indicating increased prominence: Contrastive objects in questions were
+characterized by lower pitch, while in exclamatives, they were associated with higher pitch,
+larger pitch excursions, and longer durations.
+
+The most important unexpected finding was that in utterances with a contrastive object,
+
+an element that in non-contrastive utterances was prosodically prominent - the d-pronoun in
+exclamatives and the adjective in questions - was no longer as prominent. There were much
+
+fewer accents on these two elements when the object was contrastive. Thus, contrast was not
+only marked by prominence increase but also by prominence decrease. Another unexpected
+finding was the lacking duration effect for contrast marking in questions. This is curious. Possibly
+the high speaking rate of questions made the durations of individual syllables fairly rigid.
+Overall, our results show two important things.
+(i) Contrast marking is characterized on the one hand by categorical prosodic patterns (accent
+placement, accent type). Some of these are used probabilistically, similar to what has been
+
+reported for categorical patterns for the choice of accent type in givenness and focus marking
+in assertions (Rohr & Baumann, 2010; Mucke & Grice, 2014; Baumann et al., 2015; Grice
+
+et al., 2017; Roessig & Mucke, 2019; Roessig, 2021). On the other hand, contrast marking
+is done with gradient patterns, like the pitch-related measures. Both types of patterns differ
+depending on the speech act, which itself also is marked by both types of patterns.
+
+27
+
+28
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+(ii) Contrast marking occurs both locally - by a prominence increase on the contrastive
+element -, and non-locally - by a prominence decrease on another, prenuclear element.
+
+Both (i) and (ii) raise important issues for the prosody-meaning interface. Regarding (i),
+
+the observation that both phonological and phonetic patterns are used to mark contrast and
+
+speech act, and that they do so inter-dependently suggests that the often assumed division
+of prosody-meaning mapping by meaning type is not supported by our data. We did not find
+
+that syntactic and (discourse-)semantic information, being part of the grammar, maps onto
+phonological categories which via the phonology-phonetics interface are implemented in the
+
+phonetics, whereas pragmatic or paralinguistic information has a direct interface with the
+phonetics.8
+
+We think that a view like that taken by Grice et al. (2017, p. 105), who describe phonology
+
+and phonetics as "two sides of the same coin, best understood as a single system", is more
+
+likely to adequately capture the phonetics-phonology-meaning relation. Consider our findings
+
+regarding the relationship between L+H* as a phonological category and contrast: (a) In
+exclamatives, contrast increased the number of L+H* accents on objects, but L+H* accents
+
+were also found on new or even given objects; (b) many L+H* accents in exclamatives were
+found on the d-pronoun, which was never contrastive and always given. Thus, the relationship
+
+between L+H* and contrast is probabilistic. Contrast is neither necessary nor sufficient to
+license the occurrence of L+H*. Considering the relationship of L+H* and speech act, the same
+probabilistic characteristic emerges. L+H* is not reliably used as the exclamative accent to mark
+the speech act, but it occurs often.
+
+The acoustic properties of L+H* and H* accents also lie along a continuum (Grice et al.,
+
+2017; Roessig, 2021). It seems that an accent with a high target is perceived as L+H* if the
+
+target is high and/or late enough. What counts as "enough" most likely is different between
+
+individuals, both for speakers and for hearers: Some speakers choose between L+H* vs. H* to
+mark an information-structural difference, whereas others mark the same difference by gradient
+differences within an accent type (Grice et al., 2017).
+
+In sum, we think that at least in the case of L+H* and H* in German, it is inappropriate
+
+to speak of phonological categories (i.e., tonemes). There is no categorical distinction between
+
+the distribution of L+H* and H* accents as meaning-distinguishing. The labels H* and L+H*
+are probably best viewed as shorthand descriptors of particular F0 contours, but these represent
+
+8
+
+Even the division into meaning types probably is too simplistic. Speech acts obviously are pragmatic entities, but how
+they are related to sentence types (a syntactic category), and whether the speech act type must be encoded also in
+the syntax and in the semantics are much-debated issues. For IS, it is uncontroversial that it has both semantic and
+pragmatic repercussions (Krifka, 2008).
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+idealized end points of a continuum. Real productions of either accent type will probably always
+lie somewhere in between these endpoints (cp. Cangemi & Grice, 2016).9
+
+Turning to the issue arising from observation (ii), we may ask whether the F0 contours
+
+just mentioned can be viewed as clearly meaning-distinguishing in the context of the current
+
+study. The answer is that this is probably not the case: Apart from prominence-increasing local
+marking, there often (also) is non-local prominence-decreasing marking. Thus, it does not always
+seem to be sufficient to have a prominence increase on the contrastive element.
+
+The combination of prominence increase and prominence decrease is of course familiar
+
+from focus marking, where there is increased prominence on a focused element and reduced
+prominence in the post-focal region, viz. post-focal compression, which in assertions is realized
+
+as lower pitch in many languages. The lower pitch has been analyzed as deaccentuation (Ladd,
+1980; for German, e.g., Fery, 1993) but also as a result of a reduced pitch register (Kugler
+
+& Fery, 2017; for American English, see Xu & Xu, 2005, who explicitly argue against postfocal deaccentuation). In our experiments, the reduction of prominence occurs in the prenuclear
+region. Baumann et al. (2006) also observe that there may be deaccentuation and reduced
+gradient prominence in the prenuclear region in sentences with corrective focus. Niebuhr et al.
+
+(2010) observe prenuclar deaccentuation in double-checking declarative questions, where the
+
+nuclear accent also marks narrow focus. Kugler and Fery (2017) suggest that in the prenuclear
+
+region there is no deaccentuation, but at most slight compression. Yet, similarly to Baumann et
+
+al. (2006) and Niebuhr et al. (2010), we did observe a significant drop in accent frequency if the
+object was contrastive, contradicting Kugler and Fery's conjecture.
+
+The reduction of accentuation of the d-pronoun requires closer scrutiny. After all, it is a
+
+speech-act-marking device in exclamatives without a contrastive object, and therefore might
+
+be considered to carry a high functional load. Importantly, the constructional prosodic default
+
+suggested by Repp and Seeliger (2020) only requires that there be a highly prominent accent
+
+in an exclamative, without specifying the position of that accent. So deaccenting the d-pronoun
+is compatible with the constructional default as long as there is a highly prominent accent
+elsewhere, for instance on the contrastive object.
+
+Having established that contrast in both speech acts is marked by a combination of prominence
+
+increase and decrease, and that this is compatible with earlier observations in the literature, let us
+ask what this finding tells us about the meaning-prosody mapping. We might describe our finding
+
+in terms of what we may call prominence balance. This balance must be positive for the meaning
+9
+
+An interesting question in this connection is whether other accent types exhibit (nearly) categorical restrictions on
+their distributions. Prima facie, this seems to be the case. For example, there were vanishingly few L* accents in
+exclamatives. However, they were all produced in the few exclamatives with rising contours, which is the contour
+where L* also occurred in questions. So, L* might not distinguish meanings but there may well be a structural motivation for its use: If the pitch baseline is high and rising on the utterance level, an accent must deviate downward.
+
+29
+
+30
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+category contrast, which means that contrast increases the prominence for the contrastively
+
+focused word, while at the same time potentially reducing the prominence of other potentially
+accented words.10 The prominence balance is negative for the meaning category givenness (see
+
+next section): An element that is given comes with reduced prominence whereas other elements
+in the clause might come with a prominence increase.
+
+Prominence balance is fed by many different ingredients (pitch, duration, gradient phonetic
+
+measures `feeding' into accent type etc.). An important question is what `kind of animal'
+
+prominence balance is. One option is to assume a phonetic-phonological optimality-theoretic
+account as has been proposed for segmental phonology by Flemming (2001), with constraints
+
+over phonetic detail and with constraints making reference to the maximization of phonological
+contrasts/distinctiveness. Let us assume that we have only few phonological contrasts in
+
+intonation (cp. Gussenhoven, 1984). One such contrast could be between prominent vs. nonprominent elements as signaling contrastive focus vs. non-focus. The reduction of prominence on
+the d-pronoun would maximize the distinctiveness of this d-pronoun from the highly prominent
+
+contrastive object, thus ensuring a positive prominence balance for the contrastive object. These
+ideas obviously need careful discussion in future research because prominence is of course
+
+gradient, and information-structural meaning categories have been associated with different
+degrees of prominence.
+
+An optimality-theoretic account would also have the advantage of being able to capture the
+
+non-deterministic mapping from a meaning category to prominence balance more generally: The
+mapping seems to be more like a `wish-list,' for two reasons. The first is that the requirements of
+
+different meaning categories might conflict with each other. We found that contrast marking can
+
+`overwrite' speech-act specific default accent positions in exclamatives. This is possible because
+of the flexibility of the `wish-list' for exclamative speech act marking (the constructional prosodic
+default), which does not prescribe a position for the `exclamative accent'. The second reason is
+that there are other lexical elements in the clause with their own requirements concerning their
+
+prominence balance, which might also conflict, for instance if there is a double focus. In the
+next section we will see another instance of conflicting requirements stemming from discoursesemantic restrictions.
+
+An alternative way to view prominence balance is in terms of a gestalt strategy. Different
+
+gestalts would then be associated with different information-structural categories. This idea
+requires careful thought about the compatibility of gestalts with the auto-segmental theory we
+
+10
+
+Regarding prominence reduction in the prenuclear region, this idea is compatible with the observation that in comprehension the height of an accent towards the beginning of an utterance influences the perception of a later accent
+in the same utterance (Ladd, Verhoeven, & Jacobs, 1994): The perceived prominence of a very prominent late accent
+is reduced by the increased high prominence of an early accent.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+are assuming here. All these considerations raise many important theoretical questions and must
+be addressed in greater detail in future research.
+
+6.2. Givenness: Speech-act specific findings and a semantic-pragmatic account
+Our hypothesis regarding the marking of givenness (H1) was borne out for exclamatives but
+not for questions: In neither speech act was givenness clearly marked prosodically, neither
+
+on the categorical scale of accentuation, nor on the continuous scales of pitch and duration.
+
+For questions, we hypothesized given objects to be accented less often than new objects, to
+be shorter, and to have higher pitch. What we found was that givenness leads only to a slight,
+
+statistically non-significant reduction in the number of accents and to no significant differences
+in the continuous measures. A lack of givenness marking was expected for the exclamatives,
+
+but not for the questions. We do not think that this outcome is a consequence of the hypernymhyponym relation of the new objects with an element in the context, which we argued in Section
+4.2 to be insufficient to make new objects accessible from a discourse-semantic perspective.
+Furthermore, in our data new objects are regularly accented. This is expected. It is the regular
+accentuation of given objects that is surprising.
+
+To investigate this surprising outcome, we examined the accentuation patterns in the fillers.
+
+Recall that these were negative rejections and negative declarative questions like Der hat keine
+Blumen mitgebracht!/? `He didn't bring flowers !/?'. In both speech acts, all referring expressions
+
+including the objects were lexically given. The only non-given words were the auxiliary and the
+negative determiner keine `no'.11 If given objects are also accented very often in the fillers, our
+
+experimental paradigm might be fundamentally flawed. Note that neither declarative questions
+nor rejections require their lexical contents to be all given: Both can theoretically also contain
+
+contrastive focus. All-given declarative questions and rejections thus represent the same `special'
+case that all-given exclamatives and polar questions do.
+
+Figure 7 shows the number of accented syllables in the negative rejections and the negative
+
+declarative questions, split by accent type and prominence level. We see that there were differences
+between the speech acts regarding object accentuation. The negative declarative questions pattern
+with the positive polar questions from the experimental items: The object, although given, was
+
+accented in the vast majority of utterances (92%).12 These accents virtually always represented
+11
+
+12
+
+A reviewer suggests that the auxiliary is non-given only in the negative questions. We consider it an empirically open
+question to what extent a function word like an auxiliary can be given or non-given. Importantly, this difference
+between the questions and the rejections in the fillers cannot account for the difference in accentuation rates of the
+auxiliary: We would expect the non-given auxiliary in questions to be accented more often than the given one in
+exclamatives, contrary to the findings.
+The two question types also pattern alike regarding the boundary tones: 98% of the declarative questions had high
+boundary tones. As for the rejections, 96% had low boundary tones.
+
+31
+
+32
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+the nuclear accent, being at least of prominence level 2. In the rejections, in comparison, objects
+
+were accented in only 19% of the utterances, and roughly half of those accents are of prominence
+level 1, (i.e., post-nuclear accents). Given objects in rejections were thus mostly deaccented. We
+
+can therefore exclude the possibility that the participants simply always placed `default' accents
+on objects, regardless of IS: We do find categorical deaccentuation in rejections.
+
+Figure 7: Distribution of accented syllables in the fillers.
+Our account of the differences in givenness marking across the four speech acts rests on the
+
+assumption that prosodic constituents must be headed (Selkirk, 1984). The default prosodic head
+
+of the intonation phrase in the target sentences (in an all-new context) is the stressed syllable of
+the object noun: It carries the nuclear accent. If IS requires that the object noun be deaccented
+due to its givenness, another syllable in the intonation phrase must become the head of the phrase
+
+and thus carry the nuclear accent. Importantly, the nuclear accent cannot just go anywhere: An
+accent shift can and usually will have semantic and pragmatic effects. In the following, we use
+
+the term accent shift instead of deaccentuation in order to emphasize that the nuclear accent has
+to move elsewhere if it `cannot stay' in its default position. Crucially, we suggest that if accent
+shift is semantically or pragmatically illicit, the nuclear accent must be realized even on `fully'
+
+given elements (i.e., on given elements that are not (contrastively) focused). We propose that the
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+dialogue contexts in the experiment did not allow an accent shift in the polar questions and in the
+
+declarative questions for specific semantic-pragmatic reasons. In the rejections, however, accent
+shift was possible, and we found that speakers considered it close to mandatory.
+
+To develop our account, let us first consider the element(s) that the accent could be shifted
+
+to in the negative declarative questions and in the negative rejections in the fillers. We saw
+that the object's main competitor for prosodic prominence is a different word in the two speech
+
+acts. In the declarative questions, the negative determiner keine `no' is accented just a little less
+frequently than the object. In the rejections, by far the most prominent syllable is the auxiliary,
+
+which is accented in about 90% of the utterances and virtually always carries the nuclear accent.
+Now, accenting the negative determiner in the declarative questions seems intuitive if we assume
+
+that what is marked is focus on the negation (i.e., on the polarity of the sentence). The polarity
+
+(i.e., truth) is at issue in the discourse. Accenting the finite auxiliary in the rejections serves
+
+the same purpose: We propose that it marks verum focus (i.e., also focus on the polarity of the
+
+utterance (e.g., Hohle, 1992; Romero & Han, 2004; Gutzmann, 2012; Lohnstein, 2012, 2016)).
+Since neither the negative determiner in the declarative questions nor the auxiliary in the
+rejections represent given information, a shifted accent on these elements also seems legitimate
+
+from the point of view of givenness. An interesting question is why the two filler speech acts show
+
+different accentuation patterns: Both regarding the choice of negative determiner vs. auxiliary,
+and regarding the accentuation of the given object. Why do rejections behave in a unique fashion
+and allow deaccentuation of the given object?
+
+Before we answer these questions, let us turn to the polar questions in the experimental
+
+items. There is only one candidate for an accent shift away from the given object: The auxiliary.
+All other words were also lexically given, and a nuclear accent on any one of them with attendant
+deaccentuation of the object would have indicated narrow focus on that word, which would
+
+have been incoherent in the context. Yet, why was the auxiliary not accented? After all, positive
+
+polar questions ask about the polarity just as negative declarative questions do, and if there is
+no negative marker which could be accented to signal focus on the polarity, verum focus in
+principle should be licensed.
+
+Our explanation for the lack of accent shift in the polar questions and the declarative questions
+
+builds on the precise pragmatic effects that verum focus has in questions. In the literature,
+different effects have been proposed, depending on the question type and the surrounding
+
+context (e.g., Hohle, 1992; Creswell, 2000; Romero & Han, 2004; Biezma, 2009; Gutzmann &
+
+Castroviejo Miro, 2011; Gutzmann, 2012; Lohnstein, 2012, 2016). Relevant for our purposes are
+
+the following two effects. First, verum can indicate that the speaker had or has an epistemic bias
+
+against the prejacent of the question (Romero & Han, 2004). For instance, Did Peter come? can
+
+convey that the speaker of the question had assumed that Peter did not come. Second, Verum
+
+33
+
+34
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+can give rise to what Biezma (2009) called the cornering effect.13 Roughly, the cornering effect is
+
+the `flavor' of impatience that a question signals when it is used to finally settle an issue, either
+after a previous refusal by the addressee to give a straight answer, or after multiple commitments
+
+by several interlocutors to both p and p (also Lohnstein, 2012, 2016). We argue that neither the
+
+polar questions nor the declarative questions in the experiment occurred in contexts that would
+license one of these effects of verum focus. We can see this when we examine the contextual
+setup in more detail.
+
+The polar questions in the experiment were preceded by turn-initial interjections like
+
+Ach echt? `Oh, really?', which indicate a fairly high willingness of the speaker to accept the
+
+contextually implied information as true. Such interjections are incompatible with the intention
+to corner the addressee, which would require conflicting information about the prejacent of the
+
+question or a lack of cooperation by the addressee. As for the function of verum to indicate
+epistemic bias, this was blocked by the context following the question (e.g., `I would find that
+exciting'), which signals that the speaker had no previous expectations regarding the questioned
+proposition. Therefore, verum focus was not licit in the polar questions. This, in turn, made a
+full accent shift away from given objects impossible.
+
+Declarative questions do not seem to be able to give rise to cornering effects in general,
+
+which might have to do with the fact that these questions always are biased: There must not
+be evidence against the questioned proposition in the context or even evidence for it (e.g.,
+Gunlogson, 2003; Safaova, 2005; Sudo, 2013; Trinh, 2014; Seeliger & Repp, 2018; Seeliger,
+
+2019). We leave this issue for future research. For the current purposes we note that an accent
+
+shift to the auxiliary in declarative questions can only give rise to the inference that the speaker
+was previously biased with respect to the underlying proposition and is now resolving an
+
+epistemic conflict between the contextual evidence and the previous assumption. To illustrate,
+in (6) Belinda, who asks the question, assumed that Carl had never been to France because Carl
+himself told her so. Ann's assertion in the preceding context creates an epistemic conflict, which
+in Belinda's question is marked by verum focus.
+(6)
+
+13
+
+Context: Ann and Belinda are discussing Carl's vacation. Ann states that Carl did not go to
+France because he had already been there last summer. Belinda says:
+Moment mal. Der WAR schon
+mal in Frankreich?
+moment once he was already once in France
+Mir hat er was ganz Anderes erzahlt!
+`Wait a minute. He HAS been to France before? He said something entirely different to me.'
+
+Biezma (2009) coined the term for alternative questions. Beltrema et al. (2018) extended it to other questions.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+In our experiments, the speaker of the declarative questions always received new information
+and was asking a double-check question - as was also indicated by turn-initial interjections
+
+like Moment mal `Wait a moment'. Nothing in the context supported the necessary background
+assumption that the speaker was previously biased about the proposition that is questioned in
+
+the declarative question. The follow-up questions (e.g., `Doesn't he work in a plant nursery?'
+after `He didn't bring flowers?') arguably are too weak to license verum: They only indicate that
+the speaker has made a weak, defeasible inference (e.g., if someone works in a plant nursery
+
+there is a good chance that they bring flowers). Something much stronger would be needed to
+place the nuclear accent on the auxiliary (e.g., `I thought he brought half the plant nursery!'). In
+
+other words, a previous weak assumption does not seem to be enough to license verum focus in
+declarative questions, previous strong conviction is required.
+
+What about the other potential target for the shifted accent: The negative determiner keine
+
+`no'? Polarity focus can be expressed by negation, and we saw that participants often accented
+
+keine. Yet the accent on keine tended to be pre-nuclear, instead of attracting the nuclear accent. It
+turns out that an accent on keine can also indicate a different focus - depending on the prosodic
+
+characteristics of the remainder of the clause. Intuitively, an accent on keine only expresses
+
+polarity focus if the object is accented as well. If the object is deaccented, there is a narrow
+
+focus reading where the focus alternatives are quantifiers: {none, a few, several, many, ...}. In (7),
+where the stretch of speech after the prominent syllable of the determiner is compressed (marked
+
+by italic font), the speaker is double-checking whether the subject referent really brought no
+flowers at all - as opposed to just a few, which appears to be the speaker's original epistemic bias
+with such a contour. Crucially, this reading is not salient in the experimental contexts.
+(7)
+
+Moment mal. Der hat KEIne Blumen mitgebracht?
+moment once he has no
+flowers brought
+`Wait a minute. He didn't bring any flowers?'
+
+As for why the accentuation of the object, even though it is given, appears to be necessary to
+
+mark polarity focus, we tentatively suggest that polarity - or rather negation - is a propositional
+operator and for focus on this operator to project to its scope position, the phrase containing the
+
+negative determiner keine needs to be focus-marked. Just accenting the determiner apparently
+
+cannot serve this purpose. This requires more scrutiny in future research on the syntax-prosodysemantics interface of negative sentences.
+
+Finally turning to rejections, the nuclear accent can shift to the auxiliary, indicating verum
+
+focus, as we saw in the data. The requirement imposed by verum that the speaker and/or the
+
+context be biased with respect to the rejected proposition is fulfilled trivially in rejections: One
+can only reject a proposition if one is biased against that proposition. A single accent on the
+
+35
+
+36
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+object would induce a contrastive reading (i.e., the speaker would reject only that the proposition
+is true for the object referent). This contrastive reading was not supported by the experimental
+
+context (no focus alternatives to the object denotation). Double accentuation - a nuclear accent
+on the auxiliary and a post-nuclear accent on the object - is apparently dispreferred in rejections.
+
+As the exponent of the polarity focus is not the same as in the negative declarative questions
+
+(auxiliary vs. negative determiner), we think that this finding is not at odds with our proposal for
+the accentuation pattern in the negative declarative questions.
+
+Summarizing our discussion of givenness marking in the questions, we assume that
+
+deaccentuation of given material is possible in questions, be they polar or declarative, but the
+nuclear accent has to move to another element for structural prosodic reasons. If there is no
+
+element available that could host the accent without triggering semantic-pragmatic effects that
+are unlicensed in the context, given material needs to be accented. This account combines well
+with the idea developed in Section 6.2, that there is no deterministic mapping from a meaning
+
+category to prosody. The marking of givenness by a negative prominence balance in polar
+questions conflicts with a structural prosodic requirement (headedness) and with other meaning-
+
+prosody mappings (verum focus), which according to our findings `win over' givenness marking.
+Exclamatives are different from the two question types and rejections. A nuclear accent on
+
+the auxiliary with full deaccentuation of the object in principle appears to be possible, and does
+
+not seem to give rise to verum-related readings or to contrast. This accentuation choice was thus
+compatible with the experimental contexts. We take the fact that this contour is only very rarely
+
+attested in the data14 as evidence for a genuine reduction of givenness marking in the exclamatives.
+
+This view is further supported by the finding already discussed above, viz. that the d-pronoun,
+
+which is given and not contrastive is a typical attractor of the exclamative accent. Intuitively, it is
+unclear whether a nuclear accent on the d-pronoun with full deaccentuation of the object leads to
+a contrastive focus reading of the d-pronoun. This needs to be tested in future research.
+
+6.3. Methodological concerns
+There are two methodological issues that we would like to address because they might be
+thought to influence the results of our study. The first is that the experiment was run in two
+
+recording sessions, which might have artificially boosted the differences between exclamatives
+and questions, as one reviewer suggests: Speakers may sound different on different days. While
+we agree with the latter observation, we do not think that the split into sessions has had a major
+
+impact on our results. Recall that we counterbalanced the speech act type in the fillers: Each
+
+session elicited one questioning and one non-questioning speech act, so that the mix of speech acts
+
+in both sessions was comparable. Crucially, we consider it unlikely that our important findings
+14
+
+Twelve realizations by four participants in total.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+regarding IS-marking by (de)accentuation - or the lack thereof - are influenced by a split into
+
+two sessions. There is no reason to believe that speakers would systematically accent words on
+one day but not on another day. Similarly, we think that for instance pitch should be comparable
+
+between recording sessions and it certainly should not differ systematically between sessions.
+For intensity, which strongly depends on recording conditions, we either only compared data
+from one recording session (on the syllable-level) or did not find a difference between speech
+
+acts (on the utterance-level). Regarding the speaking rate differences between exclamatives and
+questions, one might think that they arise from a training effect: Polar questions were elicited
+
+in session 2, and they were faster. However, we consider a training effect unlikely: We did not
+observe a training effect within the sessions. Moreover, our results replicate earlier findings.
+
+The second methodological issue concerns our choice of only female participants. Overall,
+
+we expect our results to generalize to male speakers, with some potential caveats. Regarding IS,
+
+Repp (2020) reports for wh-exclamatives and wh-questions subtle phonetic differences for female
+
+vs. male speakers such that some effects only showed in female speakers. Phonetic effects of, for
+instance, interrogativity in Dutch have also been reported to be greater for female than for male
+
+speakers (van Heuven & Haan, 2000; van Heuven & van Zanten, 2005). However, for German,
+
+the opposite finding has been reported, with inter-individual variation being an additional, even
+
+more important factor (Michalsky, 2017). Slightly different phonetic marking strategies for
+
+narrow focus used by men and women were reported by Schmid and Moosmuller (2013). Thus,
+
+the phonetic measures we found might not completely generalize to male speakers, although we
+expect only small differences.
+
+Concerning accentuation, there is a finding in our study which might be considered female-
+
+specific. Recall that in the exclamatives, the finite auxiliary was rarely accented - which we
+
+explained as arising from rhythmical factors. Repp (2020) reports for verb-second wh-exclamatives
+
+that female speakers virtually never accented the auxiliary but almost always the d-pronoun,
+whereas male speakers accented the auxiliary in about half of the productions. However, the
+great preference for accenting d-pronouns in female speakers in comparison to male speakers was
+
+not replicated in a follow-up study to Repp (2020), viz. Seeliger & Repp (in prep.): In verb-final
+wh-exclamatives (in which it is ungrammatical to accent the auxiliary) male speakers accented
+the d-pronoun in 99% of utterances, while female speakers did so in `only' 89%. Therefore,
+
+we assume that accentuation choices in German exclamatives are not systematically linked to
+speaker sex, but instead are most likely individual-specific.
+
+7. Conclusion
+The present study has explored the marking of givenness and contrast in non-assertive speech
+
+acts. Our findings indicate that contrastive focus is consistently marked using prosodic means
+in both polar exclamatives and in polar questions. The presence of a contrastive alternative in
+
+37
+
+38
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+the utterance context is necessary and, crucially, sufficient to trigger increased phonetic and
+
+phonological prominence of the contrasted phrase itself (local marking) and decreased prominence
+of other elements (non-local marking). Decreased prominence can impact the prenuclear region
+to a substantial extent.
+
+The prosodic marking of givenness, on the other hand, does not exclusively depend on
+
+contextually induced givenness, which is necessary, but not sufficient to trigger reduced phonetic
+and phonological prominence. Our data indicate that if accent shift to another element within
+
+the utterance is pragmatically impossible, givenness marking results only in small continuous
+differences for the given expression.
+
+To capture the interplay of local and non-local effects of IS marking we have discussed
+
+a potential optimality-theoretical implementation to capture what we have called prominence
+balance. The prominence balance is positive for contrastive and negative for given elements.
+
+Overall, our findings suggest that the investigation of IS and its prosodic reflections must
+
+take into account what consequences prosodic prominence or the lack of prosodic prominence
+has for (i) the prosodic structure of the utterance, (ii) for the semantic-pragmatic suitability of
+
+that utterance in the context in terms of IS and in terms of speaker beliefs and intentions, and
+(iii) for the speech act(s) that the utterance can express. Our data in conjunction with earlier
+
+findings suggests that prosodic givenness marking is subordinate to other functions of prosody.
+Contrast marking seems to have a greater functional pressure but we note that contrast marking
+
+was not `in conflict' with other semantic-pragmatic or prosodic requirements to the extent that
+givenness marking was. Contrast marking in exclamatives can make use of the flexibility that the
+
+prosodic constructional default for that speech act offers: The requirement that there be (at least)
+one prominent accent can be satisfied by placing the most prominent accent on the contrastively
+
+focused element so that the IS requirement that the contrastively focused element be highly
+prominent is also satisfied.
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Additional file
+The additional file for this article can be found as follows:
+* Complete Materials. Full set of experimental stimuli. DOI: https://doi.org/10.16995/
+labphon.6451.s1
+
+Acknowledgements
+We wish to thank Marlon Siewert, Hanna Maurer, and Jonilla Ried for help with creating the
+
+materials, Jonilla Ried for speaking the part of speaker 1, and Lukas Kurzeja and Marlon Siewert
+
+for their annotation work. We are also grateful to the associate editor Aoju Chen, as well as two
+anonymous reviewers, for their invaluable feedback on the paper.
+
+Funding information
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -
+Project-ID 281511265 - SFB 1252.
+
+Competing interests
+The authors have no competing interests to declare.
+
+Author contributions
+Both authors designed the study and interpreted the data. The first author analyzed the data and
+
+drafted the manuscript. The second author revised the manuscript. Both authors wrote parts of
+the article and provided final approval for the submitted version.
+
+References
+
+Abels, K. (2010). Factivity in exclamatives is a presupposition. Studia Linguistica, 64(1), 141-157.
+DOI: https://doi.org/10.1111/j.1467-9582.2010.01164.x
+Altmann, H. (1993). Satzmodus. In J. Jacobs, A. von Stechow, W. Sternefeld & T. Venneman
+(Eds.), Syntax: Ein internationales Handbuch zeitgenossischer Forschung (pp. 1006-1029).
+Berlin/New York: De Gruyter. DOI: https://doi.org/10.1515/9783110095869.1.15.1006
+Bates, D., Machler, M., Bolker, B., & Walker, S. (2015). Fitting linear mixed-effects models using
+lme4. Journal of Statistical Software, 67(1), 1-48. DOI: https://doi.org/10.18637/jss.v067.i01
+Batliner, A. (1988a). Der Exklamativ: Mehr als Aussage oder nur mehr oder weniger Aussage? In
+H. Altmann (Ed.), Intonationsforschungen (pp. 243-271). Tubingen: Niemeyer. DOI: https://doi.
+org/10.1515/9783111358413.243
+
+39
+
+40
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Batliner, A. (1988b). Produktion und Pradiktion. Die Rolle intonatorischer und anderer Merkmale
+bei der Bestimmung des Satzmodus. In H. Altmann (Ed.), Intonationsforschungen (pp. 207-221).
+Tubingen: Niemeyer. DOI: https://doi.org/10.1515/9783111358413.207
+Batliner, A. (1989). Wieviel Halbtone braucht die Frage? In H. Altmann, A. Batliner & W.
+Oppenrieder (Eds.), Zur Intonation von Modus und Fokus im Deutschen (pp. 111-162). Tubingen:
+Niemeyer. DOI: https://doi.org/10.1515/9783111658384.111
+Baumann, S. (2006). The intonation of givenness - Evidence from German. Tubingen: Niemeyer.
+DOI: https://doi.org/10.1515/9783110921205
+Baumann, S., Becker, J., Grice, M., & Mucke, D. (2007). Tonal and articulatory marking of focus
+in German. In J. Trouvain & W. J. Barry (Eds.), Proceedings of the 16th International Congress of
+Phonetic Sciences (pp. 1029-1032). Saarbrucken: University of Saarbrucken.
+Baumann, S., & Grice, M. (2006). The intonation of accessibility. Journal of Pragmatics, 38(10),
+1636-1657. DOI: https://doi.org/10.1016/j.pragma.2005.03.017
+Baumann, S., Grice, M., & Steindamm, S. (2006). Prosodic marking of focus domains - categorical
+or gradient? In R. Hoffmann & H. Mixdorff (Eds.), Proceedings of Speech Prosody 2006 (pp. 301-
+304). Dresden: TUDpress.
+Baumann, S., & Riester, A. (2013). Coreference, lexical givenness and prosody in German. Lingua,
+136, 16-37. DOI: https://doi.org/10.1016/j.lingua.2013.07.012
+Baumann, S., & Rohr, C. (2015). The perceptual prominence of pitch accent types in German. In
+The Scottish Consortium for ICPhS 2015 (Ed.), Proceedings of the 18th International Congress of
+Phonetic Sciences, paper number 298 (pp. 1-5). Glasgow: University of Glasgow.
+Baumann, S., Rohr, C. T., & Grice, M. (2015). Prosodische (De-)Kodierung des Informationsstatus
+im Deutschen. Zeitschrift fur Sprachwissenschaft, 34, 1-42. DOI: https://doi.org/10.1515/zfs2015-0001
+Baumann, S., & Winter, B. (2018). What makes a word prominent? Predicting untrained German
+listeners' perceptual judgments. Journal of Phonetics, 70, 20-38. DOI: https://doi.org/10.1016/j.
+wocn.2018.05.004
+Beltrema, A., Meertens, E., & Romero, M. (2018). Decomposing cornering effects: an experimental
+study. In U. Sauerland & S. Solt (Eds.), Proceedings of Sinn und Bedeutung 22 (vol. 1, pp. 175-190).
+Berlin: ZAS. DOI: https://doi.org/10.21248/zaspil.60.2018.461
+Biezma, M. (2009). Alternative vs polar questions: The cornering effect. In E. Cormany, S.
+Ito & D. Lutz (Eds.), Proceedings of the 19th Semantics and Linguistic Theory Conference (SALT)
+(pp. 37-54). Columbus, USA. DOI: https://doi.org/10.3765/salt.v19i0.2519
+Boersma, P., & Weenink, D. (2021). Praat: doing phonetics by computer [computer program].
+Version 6.1.40, retrieved 1 March 2021 from http://www.praat.org/
+Boril, T., & Skarnitzl, R. (2016). Tools rPraat and mPraat. In P. Sojka, A. Horak, I. Kopecek
+& K. Pala (Eds.), Proceedings of Text, Speech, and Dialogue: 19th International Conference (TSD).
+Brno, Czech Republic (pp. 367-374). Cham: Springer International Publishing. DOI: https://doi.
+org/10.1007/978-3-319-45510-5_42
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Braun, B. (2006). Phonetics and phonology of thematic contrast in German. Language and
+Speech, 49(4), 451-493. DOI: https://doi.org/10.1177/00238309060490040201
+Braun, B., Dehe, N., Neitsch, J., Wochner, D., & Zahner, K. (2019). The prosody of rhetorical and
+information-seeking questions in German. Language and Speech, 62(4), 779-807. DOI: https://
+doi.org/10.1177/0023830918816351
+Braun, B., & Tagliapetra, L. (2010). The role of contrastive intonation contours in the retrieval of
+contextual alternatives. Language and Cognitive Processes, 25(7-9), 1024-1043. DOI: https://doi.
+org/10.1080/01690960903036836
+Breen, M., Fedorenko, E., Wagner, M., & Gibson, E. (2010). Acoustic correlates of information
+structure. Language and Cognitive Processes, 25(7-9), 1044-1098. DOI: https://doi.org/10.1080/
+01690965.2010.504378
+Cangemi, F., & Grice, M. (2016). The importance of a distributional approach to categoriality in
+autosegmental-metrial accounts of intonation. Laboratory Phonology, 7(1), 1-20. DOI: https://
+doi.org/10.5334/labphon.28
+Chafe, W. (1976). Givenness, contrastiveness, definiteness, subjects, topics and point of view. In
+C. Li (Ed.), Subject and Topic (pp. 25-56). New York, NY: Academic Press.
+Chafe, W. (1994). Discourse, consciousness, and time. Chicago/London: University of Chicago
+Press.
+Chen, A. (2012). Shaping the intonation of wh-questions: information structure and beyond.
+In J. P. de Ruiter (Ed.), Questions: Formal, functional and interactional perspectives (pp. 146-
+164). Cambridge, England: Cambridge University Press. DOI: https://doi.org/10.1017/
+CBO9781139045414.010
+Clark, H. H. (1977). Bridging. In P. N. Johnson-Laird & P. Cathcart Wason (Eds.), Thinking:
+Readings in cognitive science (pp. 411-420). Cambridge, England: Cambridge University Press.
+Creswell, C. (2000). The discourse function of verum focus in wh-questions. In M. Hirotani,
+A. Coetzee, N. Hall & J.-Y. Kim (Eds.), Proceedings of the North East Linguistics Society (NELS).
+Groningen, Netherlands, (Vol. 30, No. 1, p. 165-180). Amherst, MA: GLSA.
+d'Avis, F.-J. (2002). On the interpretation of wh-clauses in exclamative environments. Theoretical
+Linguistics, 28, 5-31. DOI: https://doi.org/10.1515/thli.2002.28.1.5
+d'Avis, F.-J. (2013). Exklamativsatz. In J. Meibauer, M. Steinbach & H. Altmann (Eds.),
+Satztypen des Deutschen (pp. 171-201). Berlin/New York: De Gruyter. DOI: https://doi.
+org/10.1515/9783110224832.171
+d'Avis, F.-J. (2016). Different languages - different sentence types? On exclamative sentences.
+Language and Linguistics Compass, 10(4), 159-175. DOI: https://doi.org/10.1111/lnc3.12181
+Essen, O. v. (1966). Allgemeine und angewandte Phonetik. Berlin: Akademie-Verlag.
+Fery, C. (1993). German intonational patterns. Tubingen: Niemeyer. DOI: https://doi.
+org/10.1515/9783111677606
+Flemming, E. (2001). Scalar and categorical phenomena in a unified model of phonetics and
+phonology. Phonology, 18(1), 7-44. DOI: https://doi.org/10.1017/S0952675701004006
+
+41
+
+42
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Grice, M., Baumann, S., & Benzmuller, R. (2005). German intonation in autosegmental-metrical
+phonology. In S.-A. Jun (Ed.), Prosodic typology: The phonology of intonation and phrasing (pp.
+55-83). Oxford, England: Oxford University Press. DOI: https://doi.org/10.1093/acprof:
+oso/9780199249633.003.0003
+Grice, M., & Savino, M. (2003). Map tasks in Bari Italian: Asking questions about given, accessible
+and new information. Catalan Journal of Linguistics, 2, 153-180. DOI: https://doi.org/10.5565/
+rev/catjl.48
+Grice, M., Ritter, S., Niemann, H., & Roettger, T. B. (2017). Integrating the discreteness and
+continuity of intonational categories. Journal of Phonetics, 64, 90-107. DOI: https://doi.
+org/10.1016/j.wocn.2017.03.003
+Gunlogson, C. (2003). True to form: Rising and falling declaratives as questions in English. New York,
+NY: Routledge. DOI: https://doi.org/10.4324/9780203502013
+Gunlogson, C. (2008). A question of commitment. Belgian Journal of Linguistics, 22(1), 101-136.
+DOI: https://doi.org/10.1075/bjl.22.06gun
+Gussenhoven, C. (1984). On the grammar and semantics of sentence accents. Dordrecht: Foris. DOI:
+https://doi.org/10.1515/9783110859263
+Gutzmann, D. (2012). Verum-Fokus-Verumfokus. In H. Lohnstein & H. Bluhdorn (Eds.),
+Wahrheit-Fokus-Negation (pp. 69-104). Hamburg: Buske-Verlag.
+Gutzmann, D., & Castroviejo Miro, E. (2011). The dimensions of verum. In O. Bonami & P.
+Cabredo Hofherr (Eds.), Empirical issues in syntax and semantics 8 (pp. 143-165). Paris: Universite
+Paris-Sorbonne.
+Heuven, V. J. v., & Haan, J. (2000). Phonetic correlates of statement versus question intonation in
+Dutch. In A. Botinis (Ed.), Intonation. Analysis, modelling and technology (pp. 119-144). Dordrecht,
+The Netherlands: Kluwer. DOI: https://doi.org/10.1007/978-94-011-4317-2_6
+Heuven, V. J. v., & Zanten, E. v. (2005). Speech rate as a secondary prosodic characteristic of
+polarity questions in three languages. Speech Communication, 47(1-2), 87-99. DOI: https://doi.
+org/10.1016/j.specom.2005.05.010
+Hohle, T. (1992). Uber Verum-Fokus im Deutschen. In J. Jacobs (Ed.), Informationsstruktur und
+Grammatik (pp. 139-197). Opladen: Westdeutscher Verlag. DOI: https://doi.org/10.1007/9783-663-12176-3_5
+Isaenko, A. V., & Schadlich, H.-J. (1966). Untersuchungen uber die deutsche Satzintonation.
+In M. Bierwisch (Ed.), Untersuchungen uber Satz und Akzent im Deutschen (pp. 7-67). Berlin:
+Akademie-Verlag.
+Jacobs, J. (1988). Fokus-Hintergrund-Gliederung und
+(Ed.), Intonationsforschungen (pp. 89-134). Tubingen:
+org/10.1515/9783111358413.89
+
+Grammatik. In H. Altmann
+Niemeyer. DOI: https://doi.
+
+Kohler, K. J. (1991). A model of German intonation. In K. J. Kohler (Ed.), Studies in German
+Intonation (AIPUK 25) (pp. 205-215). Kiel: Kiel University.
+Kohler, K. J. (2004). Pragmatic and attitudinal meanings of pitch patterns in German
+syntactically marked questions. In G. Fant, H. Fujisaki, J. Cao & Y. Xu (Eds.), From traditional
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+phonology to modern speech processing (pp. 205-215). Peking: Foreign Language Teaching and
+Research Press.
+Krifka, M. (2008). Basic notions of information structure. Acta Linguistica Hungarica, 55(3-4),
+243-276. DOI: https://doi.org/10.1556/ALing.55.2008.3-4.2
+Kugler, F. (2003). Do we know the answer? Variation in yes-no-question intonation. In S. Fischer,
+R. van de Vijver & R. Vogel (Eds.), Experimental Studies in Linguistics 1 (pp. 9-29). Potsdam:
+Potsdam University Press.
+Kugler, F., Baumann, S., Andreeva, B., Braun, B., Grice, M., Neitsch, J., Niebuhr, O., Peters,
+J., Rohr, C., Schweitzer, A., & Wagner, P. (2019). Annotation of German intonation: DIMA
+compared with other annotation systems. In S. Calhoun, P. Escudero, M. Tabain & P. Warren
+(Eds.), Proceedings of the 19th International Congress of Phonetic Sciences (ICPhS). Melbourne,
+Australia (pp. 1297-1301).
+Kugler, F., & Fery, C. (2017). Postfocal downstep in German. Language and Speech, 60(2),
+260-288. DOI: https://doi.org/10.1177/0023830916647204
+Kugler, F., & Genzel, S. (2012). On the prosodic expression of pragmatic prominence: The case
+of pitch register lowering in Akan. Language and Speech, 55(3), 331-359. DOI: https://doi.
+org/10.1177/0023830911422182
+Kugler, F., Smolibocki, B., Arnold, D., Baumann, S., Braun, B., Grice, M., Jannedy, S., Michalsky,
+J., Niebuhr, O., Peters, J., Ritter, S., Rohr, C., Schweitzer, A., Schweitzer, K., & Wagner, P. (2015).
+DIMA - Annotation guidelines for German intonation. In The Scottish Consortium for ICPhS
+2015 (Eds.), Proceedings of the 18th International Congress of Phonetic Sciences (ICPhS). Glasgow,
+Scotland (No. 317, pp. 1-5).
+Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2017). lmerTest package: Tests in
+linear mixed effects models. Journal of Statistical Software, 82(13), 1-26. DOI: https://doi.
+org/10.18637/jss.v082.i13
+Ladd, D. R. (1980). The structure of intonational meaning: Evidence from English.
+Bloomington, IN: Indiana University Press. DOI: https://doi.org/10.2979/TheStructureofIn
+tona
+Ladd, D. R., Verhoeven, J., & Jacobs, K. (1994). Influence of adjacent pitch accents on each
+other's perceived prominence: Two contradictory effects. Journal of Phonetics, 22(1), 87-99. DOI:
+https://doi.org/10.1016/S0095-4470(19)30268-2
+Lambrecht, K. (1994). Information structure and sentence form. Cambridge, England: Cambridge
+University Press. DOI: https://doi.org/10.1017/CBO9780511620607
+Lohnstein, H. (2012). Verumfokus-Satzmodus-Wahrheit. In H. Lohnstein & H. Bluhdorn (Eds.),
+Wahrheit-Fokus-Negation (pp. 31-66). Hamburg: Buske.
+Lohnstein, H. (2016). Verum Focus. In C. Fery & S. Ishihara (Eds.), The Oxford Handbook of
+Information Structure (pp. 290-313). Oxford, England: Oxford University Press. DOI: https://doi.
+org/10.1093/oxfordhb/9780199642670.013.33
+Matuschek, H., Kliegl, R., Vasishth, S., Baayen, H., & Bates, D. (2017). Balancing type I error and
+power in linear mixed models. Journal of Memory and Language, 94, 305-315. DOI: https://doi.
+org/10.1016/j.jml.2017.01.001
+
+43
+
+44
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Michaelis, L., & Lambrecht, K. (1996). The exclamative sentence type in English. In A. E. Goldberg
+(Ed.), Conceptual structure, discourse and language (pp. 375-389). Stanford: CSLI.
+Michalsky, J. (2015). Pitch scaling as a perceptual cue for questions in German. In S. Moller,
+H. Ney, B. Mobius, E. Noth & S. Steidl (Eds.), Proceedings of the 16th Annual Conference of
+the International Speech Communication Association (INTERSPEECH). Dresden, Germany
+(pp. 924-928). DOI: https://doi.org/10.21437/Interspeech.2015-13
+Michalsky, J. (2017). Frageintonation im Deutschen: Zur intonatorischen Markierung von
+Interrogativitat und Fragehaltigkeit. Berlin/New York: De Gruyter. DOI: https://doi.
+org/10.1515/9783110538564
+Molnar, V. (2002). Contrast - from a contrastive perspective. In H. Hasselgard, S. Johansson,
+B. Behrens & C. Fabricius-Hansen (Eds.), Information Structure in a Cross-Linguistic Perspective,
+Leiden, Netherlands (pp. 99-114). DOI: https://doi.org/10.1163/9789004334250_010
+Mucke, D., & Grice, M. (2014). The effect of focus marking on supralaryngeal articulation - is
+it mediated by accentuation? Journal of Phonetics, 44, 47-61. DOI: https://doi.org/10.1016/j.
+wocn.2014.02.003
+Neitsch, J., & Niebuhr, O. (2019). Questions as prosodic configurations: How prosody and context
+shape the multiparametric acoustic nature of rhetorical questions in German. In S. Calhoun, P.
+Escudero, M. Tabain & P. Warren (Eds.), Proceedings of the 19th International Congress of Phonetic
+Sciences (ICPhS). Melbourne, Australia (pp. 2425-2429).
+Niebuhr, O., Bergherr, J., Huth, S., Lill, C., & Neuschulz, J. (2010). Intonationsfragen hinterfragt
+- Die Vielschichtigkeit der prosodischen Unterschiede zwischen Aussage- und Fragesatzen mit
+deklarativer Syntax. Zeitschrift fur Dialektologie und Linguistik, 77(3), 304-346. DOI: https://doi.
+org/10.25162/zdl-2010-0010
+Oppenrieder, W. (1988). Intonatorische Kennzeichnung von Satzmodi. In H. Altmann
+(Ed.), Intonationsforschungen (pp. 69-205). Tubingen: Niemeyer. DOI: https://doi.
+org/10.1515/9783111358413.169
+Petrone, C., & Niebuhr, O. (2014). On the intonation of German intonation questions:
+The role of the prenuclear region. Language and Speech, 57(1), 108-146. DOI: https://doi.
+org/10.1177/0023830913495651
+Prince, E. F. (1981). Toward a taxonomy of given-new information. In P. Cole (Ed.), Radical
+pragmatics (pp. 223-256). New York, NY: Academic Press.
+R Core Team. (2021). R: A language and environment for statistical computing. R Foundation for
+Statistical Computing. Vienna, Austria. Retrieved from https://www.R-project.org.
+Repp, S. (2015). On the acoustics of wh-exclamatives and wh-interrogatives: Effects of
+information structure and sex of speaker. In The Scottish Consortium for ICPhS 2015 (Eds.),
+Proceedings of the 18th International Congress of Phonetic Sciences (ICPhS). Glasgow, Scotland (No.
+319, pp. 1-5).
+Repp, S. (2016). Contrast: Dissecting an elusive information-structural notion and its role
+in grammar. In C. Fery & S. Ishihara (Eds.), The Oxford Handbook of Information Structure
+(pp. 270-289). Oxford, England: Oxford University Press. DOI: https://doi.org/10.1093/
+oxfordhb/9780199642670.013.006
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of ) accent
+shift and deaccentuation in non-assertive speech acts
+
+Repp, S. (2020). The prosody of wh-exclamatives and wh-questions in German: Speech act
+differences, information structure, and sex of speaker. Language and Speech, 63(2), 306-361.
+DOI: https://doi.org/10.1177/0023830919846147
+Repp, S., & Rosin, L. (2015). The intonation of echo wh-questions. In S. Moller, H. Ney, B. Mobius,
+E. Noth & S. Steidl (Eds.), Proceedings of the 16th Annual Conference of the International Speech
+Communication Association (INTERSPEECH). Dresden, Germany (pp. 938-942). DOI: https://doi.
+org/10.21437/Interspeech.2015-16
+Repp, S., & Seeliger, H. (2020). Prosodic prominence in polar questions and exclamatives.
+Frontiers in Communication, 5(53), 1-26. DOI: https://doi.org/10.3389/fcomm.2020.00053
+Roessig, S. (2021). Categoriality and continuity in prosodic prominence. Berlin: Language Science
+Press. https://doi.org/10.5281/zenodo.4121875
+Roessig, S., & Mucke, D. (2019). Modeling dimensions of prosodic prominence. Frontiers in
+Communication, 4(44), 1-19. DOI: https://doi.org/10.3389/fcomm.2019.00044
+Rohr, C. T., & Baumann, S. (2010). Prosodic marking of information status in German. Proceedings
+of the Fifth International Conference on Speech Prosody. Chicago, USA (pp. 1-5).
+Romero, M., & Han, C.-H. (2004). On negative yes/no questions. Linguistics and Philosophy, 27(5),
+609-658. DOI: https://doi.org/10.1023/B:LING.0000033850.15705.94
+Rosengren, I. (1992). Zur Grammatik und Pragmatik der Exklamation. In I. Rosengren
+(Ed.), Satz und Illokution 1 (pp. 263-306). Tubingen: Niemeyer. DOI: https://doi.
+org/10.1515/9783111353210.263
+Rosengren, I. (1997). Expressive sentence types - a contradiction in terms. The case of exclamation.
+In T. Swan & O. J. Westvik (Eds.), Modality in Germanic languages (pp. 151-184). Berlin/New
+York: De Gruyter Mouton. DOI: https://doi.org/10.1515/9783110889932.151
+Safaova, M. 2005. The semantics of rising intonation in interrogatives and declaratives. In E.
+Maier, C. Bary & J. Huitink (Eds.), Proceedings of Sinn und Bedeutung 9. Nijmegen, Netherlands
+(pp. 355-369).
+Schmid, C., & Moosmuller, C. (2013). Gender differences in the phonetic realization of semantic
+focus. In P. Mertens & A. C. Simon (Eds.), Proceedings of the Prosody-Discourse Interface Conference
+2013 (IDP-2013). Leuven, September 11-13 (pp. 119-124). Retrieved from https://www.arts.
+kuleuven.be/ling/cohistal/conference/idp2013/documents/proceedings_idp2013
+Schneider, K., & Lintfert, B. (2003). Categorical perception of boundary tones in German. In M.
+J. Sole, D. Recasens & J. Romero (Eds.), Proceedings of the 15th International Congress of Phonetic
+Sciences (ICPhS). Barcelona, Spain (pp. 631-634).
+Seeliger, H. (2019). Swedish and German rejecting questions. Experimental investigations of
+question bias. (Doctoral dissertation). Humboldt-Universitat zu Berlin. DOI: https://doi.
+org/10.18452/19686
+Seeliger, H., & Repp, S. (2017). On the intonation of Swedish rejections and rejecting questions.
+In J. Eggesbo Abramsen, J. Koreman & W. van Dommelen (Eds.), Proceedings of the 12th Conference
+of Nordic Prosody. Trondheim, Norway (pp. 135-146). Frankfurt am Main: Peter Lang.
+
+45
+
+46
+
+Seeliger and Repp: Information-structural surprises? Contrast, givenness, and (the lack of) accent
+shift and deaccentuation in non-assertive speech acts
+
+Seeliger, H., & Repp, S. (2018). Biased declarative questions in Swedish and German: The
+syntax of negation meets modal particles (val and doch wohl). In C. Dimroth & S. Sudhoff (Eds.),
+The grammatical realization of polarity contrast: Theoretical, empirical, and typological approaches
+(pp. 129-172). Amsterdam/Philadelphia: John Benjamins. DOI: https://doi.org/10.1075/
+la.249.05see
+Seeliger, H., & Repp, S. (2020). Competing prominence-requirements in verb-first exclamatives
+with contrastive and given information. Proceedings of the 10th International Conference
+on Speech Prosody 2020. Tokyo, Japan (pp. 141-145). DOI: https://doi.org/10.21437/
+SpeechProsody.2020-29
+Seeliger, H., & Repp, S. (in preparation). Facets of prosodic prominence marking in non-assertive
+speech acts: cumulativity, non-locality, and constructional defaults. Ms.
+Selkirk, E. O. (1984). Phonology and syntax: The relation between sound and structure. Cambridge,
+MA: MIT Press.
+Selting, M. (1995). Prosodie im Gesprach: Aspekte einer interaktionalen Phonologie der Konversation.
+Berlin/New York: De Gruyter. DOI: https://doi.org/10.1515/9783110934717
+Singmann, H., Bolker, B., Westfall, J., Aust, F., & Ben-Shachar, M. S. (2021). afex: Analysis of
+Factorial Experiments. R package version 0.28-1. Retrieved from https://CRAN.R-project.org/
+package=afex
+Sudo, Y. (2013). Biased polar questions in English and Japanese. In D. Gutzmann & H.-M. Gartner
+(Eds.), Beyond Expressives - Explorations in Use-Conditional Meaning (pp. 275-296). Leiden: Brill.
+DOI: https://doi.org/10.1163/9789004183988_009
+Trinh, T. (2014). How to ask the obvious: A presuppositional account of evidential bias in English
+yes/no questions. In L. Crni, I. R. Heim & U. Sauerland (Eds.), The art and craft of semantics: A
+festschrift for Irene Heim 2 (pp. 227-249). Cambridge, MA: MIT Press.
+Ventura, C., Grice, M., Savino, M., Kolev, D., Brilmayer, I., & Schumacher, P. B. (2020). Attention
+allocation in a language with post-focal prominences. Neuroreport, 31(8), 624-628. DOI: https://
+doi.org/10.1097/WNR.0000000000001453
+Wochner, D., Schlegel, J., Dehe, N., & Braun, B. (2015). The prosodic marking of rhetorical
+questions in German. In S. Moller, H. Ney, B. Mobius, E. Noth & S. Steidl (Eds.), Proceedings of
+the 16th Annual Conference of the International Speech Communication Association (INTERSPEECH).
+Dresden, Germany (pp. 987-991). DOI: https://doi.org/10.21437/Interspeech.2015-26
+Xu, Y., & Xu, C. X. (2005). Phonetic realization of focus in English. Journal of Phonetics, 33(2),
+159-197. DOI: https://doi.org/10.1016/j.wocn.2004.11.001
+Zanuttini, R., & Portner, P. (2003). Exclamative clauses: At the syntax-semantics interface.
+Language, 79(1), 39-81. DOI: https://doi.org/10.1353/lan.2003.0105
+
+
