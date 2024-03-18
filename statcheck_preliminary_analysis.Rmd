@@ -1,0 +1,197 @@
+---
+title: "statcheck preliminary analysis"
+author: "Dara Etemady"
+date: "2024-03-09"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+```{r packages, include=FALSE}
+
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+library(ggpubr)
+library(broom)
+library(kableExtra)
+
+```
+
+```{r variables, echo=FALSE}
+library(statcheck)
+
+stat <- read.csv("statcheck_data.csv")
+
+c <- read.csv("statcheck_summary.csv")
+c <- c %>% filter(year != "2024")
+
+outline <- tibble("journal" = unique(c$journal)) %>%
+  mutate("No. of articles" = c(558, 424, 695, 472)) %>% 
+  left_join(
+    c %>%
+      group_by(journal) %>%
+      summarise("No. of articles with NHST results" = n()),
+    by = "journal") %>%
+  mutate("%" = (`No. of articles with NHST results`/`No. of articles`)*100) %>%
+  left_join(
+    c %>%
+      group_by(journal) %>%
+      summarise("No. of NHST results" = sum(nr_p_values), "Median no. of NHST results per article with NHST results" = median(nr_p_values)), by = "journal")
+
+outline %>% 
+ kbl() %>%
+ kable_styling()
+
+```
+
+```{r Number of NHST per year, echo=FALSE}
+linear_models <- c %>%
+  group_by(journal) %>%
+  mutate(beta1 = coef(lm(nr_p_values_year ~ year))[2]) %>%
+  mutate(r_squared = summary(lm(nr_p_values_year ~ year))$r.squared)
+
+plot_nr_p_values_year <- ggplot(data = c, aes(x = year, y = nr_p_values_year)) +
+  geom_line() +
+  geom_point() +
+  geom_smooth(method="lm") +
+  facet_wrap(~ journal, nrow = 2) +
+  geom_text(data = linear_models, mapping = aes(label = paste("beta =", round(beta1, 2), "\n", "R-squared =", round(r_squared, 2)), x=-Inf, y=Inf, hjust = -0.1, vjust = 1, parse = TRUE)) +
+  labs(title="Number of NHST results per year per journal") +
+  ylab(element_blank()) +
+  xlab(element_blank()) +
+  xlim(2000, 2023)
+
+plot_nr_p_values_year
+```
+
+```{r Mean number of NHST per year per journal, echo=FALSE}
+linear_models <- c %>%
+  group_by(journal) %>%
+  mutate(beta1 = coef(lm(mean_nr_p_values_year ~ year))[2]) %>%
+  mutate(r_squared = summary(lm(mean_nr_p_values_year ~ year))$r.squared)
+
+plot_mean_nr_p_values_year <- ggplot(data = c, aes(x = year, y = mean_nr_p_values_year)) +
+  geom_line() +
+  geom_point() +
+  geom_smooth(method="lm") +
+  facet_wrap(~ journal, nrow = 2) +
+  geom_text(data = linear_models, mapping = aes(label = paste("beta =", round(beta1, 2), "\n", "R-squared =", round(r_squared, 2)), x=-Inf, y=Inf, hjust = -0.1, vjust = 1, parse = TRUE)) +
+  labs(title="Average number of NHST results per year per journal") +
+  ylab(element_blank()) +
+  xlab(element_blank())
+
+plot_mean_nr_p_values_year
+```
+
+```{r Number of inconsistencies per year per journal, echo = FALSE}
+linear_models <- c %>%
+  group_by(journal) %>%
+  mutate(beta1 = coef(lm(nr_errors_year ~ year))[2]) %>%
+  mutate(r_squared = summary(lm(nr_errors_year ~ year))$r.squared)
+
+plot_nr_errors_year <- ggplot(data = c, aes(x = year, y = nr_errors_year)) +
+  geom_line() +
+  geom_point() +
+  geom_smooth(method="lm") +
+  facet_wrap(~ journal, nrow = 2) +
+  geom_text(data = linear_models, mapping = aes(label = paste("beta =", round(beta1, 2), "\n", "R-squared =", round(r_squared, 2)), x=-Inf, y=Inf, hjust = -0.1, vjust = 1, parse = TRUE)) +
+  labs(title="Number of inconsistencies per year per journal") +
+  ylab(element_blank()) +
+  xlab(element_blank())
+
+plot_nr_errors_year
+```
+
+```{r Number of gross inconsistencies per year per journal, echo=FALSE}
+linear_models <- c %>%
+  group_by(journal) %>%
+  mutate(beta1 = coef(lm(nr_decision_errors_year ~ year))[2]) %>%
+  mutate(r_squared = summary(lm(nr_decision_errors_year ~ year))$r.squared)
+
+plot_nr_decision_errors_year <- ggplot(data = c, aes(x = year, y = nr_decision_errors_year)) +
+  geom_line() +
+  geom_point() +
+  geom_smooth(method="lm") +
+  facet_wrap(~ journal, nrow = 2) +
+  geom_text(data = linear_models, mapping = aes(label = paste("beta =", round(beta1, 2), "\n", "R-squared =", round(r_squared, 2)), x=-Inf, y=Inf, hjust = -0.1, vjust = 1, parse = TRUE)) +
+  labs(title="Number of gross inconsistencies per year per journal") +
+  ylab(element_blank()) +
+  xlab(element_blank())
+
+plot_nr_decision_errors_year
+```
+
+```{r Gross inconsistencies reported as significant/insignificant, echo=FALSE}
+stat <- stat %>%
+  mutate(year = strtoi(substr(source, 1, 4))) %>%
+  mutate(journal = substr(source, 9, 11))
+
+rep_sig <- stat %>%
+  filter(reported_p < 0.05) %>%
+  group_by(journal) %>%
+  summarise(perc_ginc_in_sig = 100*(sum(decision_error)/nrow(stat)))
+
+rep_insig <- stat %>%
+  filter(reported_p >= 0.05) %>%
+  group_by(journal) %>%
+  summarise(perc_ginc_in_insig = 100*(sum(decision_error)/nrow(stat)))
+
+merged_df <- merge(rep_sig, rep_insig, by="journal")
+
+library(reshape)
+
+merged_df_long <- melt(merged_df, id.vars = "journal", measure.vars = c("perc_ginc_in_insig", "perc_ginc_in_sig"))
+colnames(merged_df_long) <- c("journal", "status", "percentage")
+
+# Creating the bar plot
+ggplot(merged_df_long, aes(x = journal, y = percentage, fill = status)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Percentage of gross inconsistencies by Journals in...", y = "Percentage") +
+  scale_fill_manual(values = c("red", "blue"), labels = c("p values reported as insignificant", "p values reported as significant")) +
+  geom_text(aes(label = round(percentage, 2)), position = position_dodge(width = 0.9), vjust = -0.5) +
+  guides(fill = guide_legend(title = NULL))
+```
+
+```{r Gross inconsistencies reported as significant/insignificant per year, echo=FALSE}
+
+a <- stat %>%
+  mutate(significant = ifelse(is.na(reported_p) | reported_p < 0.05, "significant", "insignificant"))
+
+# Creating summary data for the plot
+plot_data <- a %>% 
+  group_by(year, significant) %>% 
+  summarise(
+    total_count = n(),
+    error_count = sum(decision_error),
+    error_percentage = (error_count / total_count) * 100
+  )
+
+# Plotting the data
+significant_lm <- lm(error_percentage ~ year, data = plot_data %>% filter(significant == "significant"))
+significant_summary <- tidy(significant_lm)
+significant_text <- paste0("beta1 = ", round(significant_summary$estimate[2], 3), ", R-squared = ", round(summary(significant_lm)$r.squared, 3))
+
+# Linear regression for insignificant p-values
+insignificant_lm <- lm(error_percentage ~ year, data = plot_data %>% filter(significant == "insignificant"))
+insignificant_summary <- tidy(insignificant_lm)
+insignificant_text <- paste0("beta1 = ", round(insignificant_summary$estimate[2], 3), ", R-squared = ", round(summary(insignificant_lm)$r.squared, 3))
+
+# Plotting the data
+ggplot(plot_data, aes(x = year, y = error_percentage, group = significant, color = significant)) +
+  geom_line() +
+  scale_color_manual(values = c("blue", "red")) +
+  labs(title = "Percentage of Decision Errors in P-values", y = "Percentage of Decision Errors", x = "Year", color = "Reported as") +
+  theme_minimal() +
+  geom_text(aes(x = max(plot_data$year), y = 12, label = significant_text), 
+            color = "blue", vjust = -2, hjust = 1) +
+  geom_text(aes(x = max(plot_data$year), y = 11, label = insignificant_text), 
+            color = "red", vjust = -2, hjust = 1)
+```
+
+
