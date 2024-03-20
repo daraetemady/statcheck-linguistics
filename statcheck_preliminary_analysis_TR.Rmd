@@ -1,0 +1,72 @@
+---
+title: "statcheck preliminary analysis"
+author: "Dara Etemady"
+date: "2024-03-09"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+```{r packages, include=FALSE}
+
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+library(ggpubr)
+library(broom)
+library(kableExtra)
+
+```
+
+```{r variables, echo=FALSE}
+library(statcheck)
+
+stat <- read.csv("statcheck_data.csv")
+
+c <- read.csv("statcheck_summary.csv")
+c <- c %>% filter(year != "2024")
+
+proportions <- c %>% 
+  mutate(error_rate = nr_errors / nr_p_values,
+         d_error_rate = nr_decision_errors / nr_p_values,
+         erroneous = ifelse(error_rate > 0, 1, 0),
+         d_erroneous = ifelse(d_error_rate > 0, 1, 0))
+
+ggplot(proportions,
+       aes(x = year, y = error_rate, size = nr_p_values)) +
+  geom_jitter(width = 0.1, height = 0,
+              alpha = 0.6)+
+  geom_smooth(method = "glm",
+              method.args = list(family = "binomial"),
+              size = 2, se = F) + 
+  facet_wrap(~journal, ncol = 2) + 
+  theme_minimal()
+
+
+ggplot(proportions,
+       aes(x = year, y = d_error_rate, size = nr_p_values)) +
+  geom_jitter(width = 0.1, height = 0,
+              alpha = 0.6)+
+  geom_smooth(method = "gam",
+              color = "red",
+              size = 2, se = F) + 
+  facet_wrap(~journal, ncol = 2) + 
+  theme_minimal()
+
+proportions_agg <- proportions %>%
+  group_by(journal) %>% 
+  summarise(mean_error_rate = mean(error_rate),
+            mean_d_error_rate = mean(d_error_rate),
+            mean_erroneous = mean(erroneous),
+            mean_d_erroneous = mean(d_erroneous))
+## holy shit, 11-15% of articles (that are checkable), have a decision error? This is shocking!
+
+
+```
+
+
